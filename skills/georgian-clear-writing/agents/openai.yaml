@@ -1,0 +1,7 @@
+interface:
+  display_name: "ქართული მკაფიო წერა"
+  short_description: "ბუნებრივი ქართული საუბარი, ტექნიკური ტექსტი და UI"
+  default_prompt: "გამოიყენე $georgian-clear-writing და დაწერე ბუნებრივი, მკაფიო ქართული ამოცანის შესაბამისი სიგრძითა და ტონით."
+
+policy:
+  allow_implicit_invocation: true

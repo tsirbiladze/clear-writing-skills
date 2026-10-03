@@ -1,0 +1,7 @@
+interface:
+  display_name: "English Clear Writing"
+  short_description: "Natural English that preserves meaning and intent"
+  default_prompt: "Use $english-clear-writing to write or edit natural English while preserving meaning, target language, format and voice."
+
+policy:
+  allow_implicit_invocation: true
