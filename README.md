@@ -9,7 +9,7 @@ Georgian and English skills for natural, precise writing in Codex.
 
 The skills preserve meaning, conditions and quantities. They put the main answer first and arrange details in small blocks.
 
-Diagrams explain useful relationships. Each skill keeps its complete writing guidance and examples in `SKILL.md`.
+Diagrams explain useful relationships. Each skill includes its instructions, task-specific guides, lexical data and local helpers.
 
 ## Install
 

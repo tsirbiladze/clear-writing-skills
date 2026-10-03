@@ -1,0 +1,334 @@
+{
+  "version": "1.0-rc.5",
+  "schema_version": 1,
+  "description": "Contextual meaning distinctions, not a closed vocabulary or automatic replacement list.",
+  "entries": [
+    {
+      "id": "L01",
+      "term": "must",
+      "sense": "Can express a requirement or a strong inference.",
+      "caution": "Identify which meaning is intended before paraphrasing.",
+      "example": "The light is on; someone must be inside.",
+      "related": [
+        "L02",
+        "L03",
+        "L04"
+      ]
+    },
+    {
+      "id": "L02",
+      "term": "must not",
+      "sense": "In a directive, prohibits an action.",
+      "caution": "Do not replace it with absence of necessity.",
+      "example": "You must not share this key.",
+      "related": [
+        "L01",
+        "L03"
+      ]
+    },
+    {
+      "id": "L03",
+      "term": "do not have to",
+      "sense": "States that an action is not required.",
+      "caution": "It is not a prohibition. Absence of this requirement alone does not establish all other permissions.",
+      "example": "You do not have to print the form.",
+      "related": [
+        "L01",
+        "L02"
+      ]
+    },
+    {
+      "id": "L04",
+      "term": "should",
+      "sense": "Can give advice or express an expectation.",
+      "caution": "Do not strengthen it to must or will without evidence.",
+      "example": "The job should finish soon, but its status is unknown.",
+      "related": [
+        "L01",
+        "L05"
+      ]
+    },
+    {
+      "id": "L05",
+      "term": "may",
+      "sense": "Can give permission or mark possibility.",
+      "caution": "May not can be ambiguous between prohibition and possible non-occurrence.",
+      "example": "The archive may not be ready yet.",
+      "related": [
+        "L04",
+        "L06"
+      ]
+    },
+    {
+      "id": "L06",
+      "term": "can",
+      "sense": "Can express capability, permission or general possibility.",
+      "caution": "Cannot may reflect a technical limit or a rule; specify the distinction only when known.",
+      "example": "Editors can rename files.",
+      "related": [
+        "L05"
+      ]
+    },
+    {
+      "id": "L07",
+      "term": "only if",
+      "sense": "Introduces a necessary condition.",
+      "caution": "Does not, by itself, guarantee the result when the condition holds.",
+      "example": "Release the file only if the owner approves.",
+      "related": [
+        "L08",
+        "L09"
+      ]
+    },
+    {
+      "id": "L08",
+      "term": "unless",
+      "sense": "Introduces an exception condition in the relevant construction.",
+      "caution": "Do not infer the converse or replace every if not; context and speech uses matter.",
+      "example": "Keep the draft unless the owner asks you to delete it.",
+      "related": [
+        "L07",
+        "L09"
+      ]
+    },
+    {
+      "id": "L09",
+      "term": "until",
+      "sense": "Marks a time boundary.",
+      "caution": "A prohibition until an event does not guarantee the event will occur or require the action afterward.",
+      "example": "Do not submit until the check finishes.",
+      "related": [
+        "L07",
+        "L08"
+      ]
+    },
+    {
+      "id": "L10",
+      "term": "not all",
+      "sense": "Negates the whole-set claim.",
+      "caution": "It does not mean none and does not guarantee that any item meets the predicate.",
+      "example": "Not all four tasks finished.",
+      "related": [
+        "L11"
+      ]
+    },
+    {
+      "id": "L11",
+      "term": "none",
+      "sense": "Zero members in the relevant group satisfy the predicate.",
+      "caution": "State the group; missing observations are not evidence of zero.",
+      "example": "None of the four tasks finished.",
+      "related": [
+        "L10",
+        "L19"
+      ]
+    },
+    {
+      "id": "L12",
+      "term": "at most",
+      "sense": "Sets an inclusive upper bound.",
+      "caution": "Fewer than excludes the endpoint and is not equivalent.",
+      "example": "Attach at most 10 files.",
+      "related": [
+        "L13",
+        "L14"
+      ]
+    },
+    {
+      "id": "L13",
+      "term": "fewer than",
+      "sense": "For a count, sets a strict upper bound.",
+      "caution": "Preserve the endpoint even when a shorter phrase sounds smoother.",
+      "example": "Attach fewer than 10 files.",
+      "related": [
+        "L12"
+      ]
+    },
+    {
+      "id": "L14",
+      "term": "at least",
+      "sense": "Sets an inclusive lower bound.",
+      "caution": "More than is strict; do not exchange them.",
+      "example": "Keep at least two copies.",
+      "related": [
+        "L12"
+      ]
+    },
+    {
+      "id": "L15",
+      "term": "percentage point",
+      "sense": "Names an absolute difference between percentages.",
+      "caution": "A change from 10% to 15% is five percentage points and a 50% relative increase.",
+      "example": "The share rose by five percentage points.",
+      "related": []
+    },
+    {
+      "id": "L16",
+      "term": "or",
+      "sense": "Connects alternatives; whether both are allowed depends on context.",
+      "caution": "If the choice affects behavior, make inclusive or exclusive scope explicit from confirmed requirements.",
+      "example": "Select email, SMS, or both.",
+      "related": []
+    },
+    {
+      "id": "L17",
+      "term": "verify",
+      "sense": "Check or establish something against evidence, depending on context.",
+      "caution": "Checked does not necessarily mean passed; name the criterion and outcome when known.",
+      "example": "We checked the signature; it did not match.",
+      "related": [
+        "L18",
+        "L20"
+      ]
+    },
+    {
+      "id": "L18",
+      "term": "validate",
+      "sense": "Assess against stated requirements or an intended use, depending on the field.",
+      "caution": "Do not treat it as a universal synonym for tested, true, certified or production-ready.",
+      "example": "The parser accepted the JSON syntax.",
+      "related": [
+        "L17",
+        "L20"
+      ]
+    },
+    {
+      "id": "L19",
+      "term": "unknown",
+      "sense": "Information is missing or not established.",
+      "caution": "It is not a synonym for zero, false, failed or unavailable.",
+      "example": "The delivery status is unknown.",
+      "related": [
+        "L11",
+        "L20"
+      ]
+    },
+    {
+      "id": "L20",
+      "term": "tested",
+      "sense": "A test was performed.",
+      "caution": "The word alone does not identify coverage, environment or success.",
+      "example": "The export was tested locally; production was not tested.",
+      "related": [
+        "L17",
+        "L18",
+        "L19"
+      ]
+    },
+    {
+      "id": "L21",
+      "term": "queued",
+      "sense": "Waiting for processing in the described workflow.",
+      "caution": "Do not relabel it sent, delivered or completed without an event proving that transition.",
+      "example": "Your export is queued.",
+      "related": [
+        "L22",
+        "L23"
+      ]
+    },
+    {
+      "id": "L22",
+      "term": "sent",
+      "sense": "Dispatched in the specified system.",
+      "caution": "It does not, by itself, establish delivery, reading or acceptance.",
+      "example": "The email was sent.",
+      "related": [
+        "L21",
+        "L23"
+      ]
+    },
+    {
+      "id": "L23",
+      "term": "delivered",
+      "sense": "Reached a defined delivery endpoint.",
+      "caution": "Name or verify the endpoint when it matters; delivered does not mean read.",
+      "example": "The provider reports delivery to the receiving mail server.",
+      "related": [
+        "L22"
+      ]
+    },
+    {
+      "id": "L24",
+      "term": "delete",
+      "sense": "Remove according to the product's actual deletion behavior.",
+      "caution": "Do not assume permanence, retention period, cascade or recovery.",
+      "example": "Delete the selected draft.",
+      "related": [
+        "L25",
+        "L26"
+      ]
+    },
+    {
+      "id": "L25",
+      "term": "remove",
+      "sense": "Detach or take away an item in context.",
+      "caution": "Removing a member or shortcut may leave the account or underlying file intact.",
+      "example": "Remove the shortcut from this folder.",
+      "related": [
+        "L24",
+        "L26"
+      ]
+    },
+    {
+      "id": "L26",
+      "term": "archive",
+      "sense": "Move into an archive state defined by the product.",
+      "caution": "Do not assume an archive is a backup or that it deletes content.",
+      "example": "Archive the conversation.",
+      "related": [
+        "L24",
+        "L25"
+      ]
+    },
+    {
+      "id": "L27",
+      "term": "reset",
+      "sense": "Return some specified state to a defined starting state.",
+      "caution": "Clarify what changes and what remains; reset alone is not a complete destructive-action label.",
+      "example": "Reset the filters.",
+      "related": [
+        "L24"
+      ]
+    },
+    {
+      "id": "L28",
+      "term": "the",
+      "sense": "Often marks an identifiable referent; it also has generic and conventional uses.",
+      "caution": "Do not add or remove it solely to reduce word count.",
+      "example": "Open the folder named Reports.",
+      "related": []
+    },
+    {
+      "id": "L29",
+      "term": "since",
+      "sense": "Can express a starting time or a reason.",
+      "caution": "Do not choose a temporal or causal rewrite without context.",
+      "example": "The service has been unavailable since noon.",
+      "related": []
+    },
+    {
+      "id": "L30",
+      "term": "while",
+      "sense": "Can mark simultaneous time or contrast.",
+      "caution": "Do not turn contrast into simultaneity or vice versa.",
+      "example": "The editor stayed open while the export ran.",
+      "related": []
+    },
+    {
+      "id": "L31",
+      "term": "log in",
+      "sense": "Verb phrase for starting an authenticated session in a defined system.",
+      "caution": "A login can be a noun or modifier; preserve actual UI labels and identifiers.",
+      "example": "Log in with your account.",
+      "related": []
+    },
+    {
+      "id": "L32",
+      "term": "its / it's",
+      "sense": "Its is possessive; it's can mean it is or it has.",
+      "caution": "Do not apply punctuation changes inside exact identifiers or quotations.",
+      "example": "The app keeps its settings. It's ready.",
+      "related": []
+    }
+  ]
+}

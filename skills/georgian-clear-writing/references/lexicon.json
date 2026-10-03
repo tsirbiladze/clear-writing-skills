@@ -1,0 +1,5278 @@
+{
+  "version": "1.0-rc.5",
+  "entry_count": 312,
+  "active_entry_count": 311,
+  "scope": "Contextual sense guidance. Listed forms are examples, not inflection paradigms or mandatory replacements.",
+  "entries": [
+    {
+      "id": "L001",
+      "term": "გახსნა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "დახურული ობიექტის შიგთავსის ხელმისაწვდომად ქცევა",
+      "example": "გახსენით ფაილი.",
+      "representative_form": "გახსენით",
+      "usage_note": "აქ: ფაილი ან ფანჯარა; ფიზიკური დეტალი დააზუსტეთ.",
+      "status": "active",
+      "sense_id": "l001.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L002",
+      "term": "დახურვა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "გახსნილი ფანჯრის ან დოკუმენტის დახურვა",
+      "example": "დახურეთ ფანჯარა.",
+      "representative_form": "დახურეთ",
+      "usage_note": "დახურვა შენახვას არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l002.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L003",
+      "term": "ჩართვა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ფუნქციის მოქმედ მდგომარეობაში გადაყვანა",
+      "example": "ჩართეთ შეტყობინებები.",
+      "representative_form": "ჩართეთ",
+      "usage_note": "ენერგიის მიწოდება ცალკე დაასახელეთ.",
+      "status": "active",
+      "sense_id": "l003.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L004",
+      "term": "გამორთვა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ფუნქციის უმოქმედო მდგომარეობაში გადაყვანა",
+      "example": "გამორთეთ შეტყობინებები.",
+      "representative_form": "გამორთეთ",
+      "usage_note": "ელექტრულ იზოლაციას ავტომატურად არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l004.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L005",
+      "term": "დაკავშირება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "პირთან ან სერვისთან კავშირის დამყარება",
+      "example": "დაუკავშირდით ოპერატორს.",
+      "representative_form": "დაუკავშირდით",
+      "usage_note": "მიუთითეთ კავშირის მეორე მხარე.",
+      "status": "active",
+      "sense_id": "l005.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L006",
+      "term": "მიერთება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T"
+      ],
+      "meaning": "ერთი ობიექტის მეორესთან ფიზიკურად შეერთება",
+      "example": "მიუერთეთ კაბელი საცდელ მოწყობილობას.",
+      "representative_form": "მიუერთეთ",
+      "usage_note": "შეერთების წერტილი პროცედურაში დააზუსტეთ.",
+      "status": "active",
+      "sense_id": "l006.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L007",
+      "term": "გათიშვა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "არსებული კავშირის შეწყვეტა",
+      "example": "გათიშეთ კავშირი სერვერთან.",
+      "representative_form": "გათიშეთ",
+      "usage_note": "მიუთითეთ კონკრეტული კავშირი.",
+      "status": "active",
+      "sense_id": "l007.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L008",
+      "term": "არჩევა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ვარიანტებიდან ერთის ან რამდენიმეს განსაზღვრა",
+      "example": "აირჩიეთ ენა.",
+      "representative_form": "აირჩიეთ",
+      "usage_note": "შესაძლო არჩევანთა რაოდენობა დააზუსტეთ.",
+      "status": "active",
+      "sense_id": "l008.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L009",
+      "term": "მონიშვნა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ობიექტის არჩევის ნიშნით გამოყოფა",
+      "example": "მონიშნეთ ორი ჩანაწერი.",
+      "representative_form": "მონიშნეთ",
+      "usage_note": "მონიშვნა დამტკიცებას არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l009.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L010",
+      "term": "მონიშვნის მოხსნა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "არჩევის ნიშნის გაუქმება",
+      "example": "მოხსენით მონიშვნა ჩანაწერს.",
+      "representative_form": "მოხსენით მონიშვნა",
+      "usage_note": "თავად ჩანაწერი რჩება.",
+      "status": "active",
+      "sense_id": "l010.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L011",
+      "term": "შეყვანა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მნიშვნელობის ველში მოთავსება",
+      "example": "შეიყვანეთ ფაილის სახელი.",
+      "representative_form": "შეიყვანეთ",
+      "usage_note": "შეყვანა გაგზავნას არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l011.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L012",
+      "term": "ჩაწერა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ინფორმაციის ჩანაწერად დაფიქსირება",
+      "example": "ჩაწერეთ შედეგი ჟურნალში.",
+      "representative_form": "ჩაწერეთ",
+      "usage_note": "დაასახელეთ ადგილი.",
+      "status": "active",
+      "sense_id": "l012.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L013",
+      "term": "შენახვა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მონაცემების შემდგომი გამოყენებისთვის შენარჩუნება",
+      "example": "შეინახეთ ცვლილებები.",
+      "representative_form": "შეინახეთ",
+      "usage_note": "ადგილობრივი და სერვერული შენახვა განასხვავეთ.",
+      "status": "active",
+      "sense_id": "l013.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L014",
+      "term": "წაშლა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მონაცემების საცავიდან მოცილება",
+      "example": "წაშალეთ საცდელი ასლი.",
+      "representative_form": "წაშალეთ",
+      "usage_note": "აღდგენადობა რეალური ქცევით განისაზღვრება.",
+      "status": "active",
+      "sense_id": "l014.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L015",
+      "term": "აღდგენა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ადრინდელი მონაცემის ან მდგომარეობის დაბრუნება",
+      "example": "აღადგინეთ წინა ვერსია.",
+      "representative_form": "აღადგინეთ",
+      "usage_note": "დაასახელეთ ვერსია და წყარო.",
+      "status": "active",
+      "sense_id": "l015.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L016",
+      "term": "კოპირება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "საწყისი ობიექტის შენარჩუნებით ასლის შექმნა",
+      "example": "დააკოპირეთ ფაილი.",
+      "representative_form": "დააკოპირეთ",
+      "usage_note": "გადატანისგან განსხვავდება.",
+      "status": "active",
+      "sense_id": "l016.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L017",
+      "term": "გადატანა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ობიექტის ადგილის შეცვლა",
+      "example": "გადაიტანეთ ფაილი არქივის საქაღალდეში.",
+      "representative_form": "გადაიტანეთ",
+      "usage_note": "დააზუსტეთ საწყისი და საბოლოო ადგილი.",
+      "status": "active",
+      "sense_id": "l017.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L018",
+      "term": "ატვირთვა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ფაილის მომხმარებლის გარემოდან სერვისში გადაცემა",
+      "example": "ატვირთეთ შევსებული ფორმა.",
+      "representative_form": "ატვირთეთ",
+      "usage_note": "დამუშავების დასრულებას არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l018.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L019",
+      "term": "ჩამოტვირთვა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ფაილის სერვისიდან მომხმარებლის გარემოში მიღება",
+      "example": "ჩამოტვირთეთ ანგარიშის ასლი.",
+      "representative_form": "ჩამოტვირთეთ",
+      "usage_note": "წყარო და ფორმატი საჭიროებისას მიუთითეთ.",
+      "status": "active",
+      "sense_id": "l019.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L020",
+      "term": "გაგზავნა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მონაცემის მიმღებისკენ გადაცემა",
+      "example": "გააგზავნეთ განაცხადი.",
+      "representative_form": "გააგზავნეთ",
+      "usage_note": "მიღებას და დამტკიცებას არ ადასტურებს.",
+      "status": "active",
+      "sense_id": "l020.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L021",
+      "term": "მიღება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "გამოგზავნილი ობიექტის მიმღებთან მისვლა",
+      "example": "სისტემამ ფაილი მიიღო.",
+      "representative_form": "მიიღეთ",
+      "usage_note": "მიღებული შეიძლება ჯერ შეუმოწმებელი იყოს.",
+      "status": "active",
+      "sense_id": "l021.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L022",
+      "term": "დამატება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "არსებულ ერთობლიობაში ახალი ნაწილის შეტანა",
+      "example": "დაამატეთ კომენტარი.",
+      "representative_form": "დაამატეთ",
+      "usage_note": "მიუთითეთ დასამატებელი ობიექტი.",
+      "status": "active",
+      "sense_id": "l022.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L023",
+      "term": "შეცვლა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "არსებული მნიშვნელობის განსხვავებულად ქცევა",
+      "example": "შეცვალეთ ანგარიშის სახელი.",
+      "representative_form": "შეცვალეთ",
+      "usage_note": "საჭიროებისას მიუთითეთ ახალი მნიშვნელობა.",
+      "status": "active",
+      "sense_id": "l023.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L024",
+      "term": "ჩანაცვლება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ერთი ობიექტის ნაცვლად მეორის გამოყენება",
+      "example": "ჩაანაცვლეთ ძველი ასლი ახალი ასლით.",
+      "representative_form": "ჩაანაცვლეთ",
+      "usage_note": "არ დამალოთ ძველი ობიექტის ბედი.",
+      "status": "active",
+      "sense_id": "l024.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L025",
+      "term": "შექმნა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მანამდე არარსებული ობიექტის წარმოქმნა",
+      "example": "შექმენით ახალი საქაღალდე.",
+      "representative_form": "შექმენით",
+      "usage_note": "შექმნილი ობიექტი გამოქვეყნებულს არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l025.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L026",
+      "term": "გამეორება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "განსაზღვრული მოქმედების ხელახლა შესრულება",
+      "example": "გაიმეორეთ მესამე ნაბიჯი.",
+      "representative_form": "გაიმეორეთ",
+      "usage_note": "მიუთითეთ პირობა და რაოდენობა.",
+      "status": "active",
+      "sense_id": "l026.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L027",
+      "term": "დაწყება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მოქმედების პირველი ეტაპის შესრულება",
+      "example": "დაიწყეთ შემოწმება.",
+      "representative_form": "დაიწყეთ",
+      "usage_note": "შედეგის მიღებას არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l027.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L028",
+      "term": "შეჩერება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მოქმედების დროებით შეჩერებულ მდგომარეობაში გადაყვანა",
+      "example": "შეაჩერეთ ატვირთვა.",
+      "representative_form": "შეაჩერეთ",
+      "usage_note": "ამ ლექსიკონში გაგრძელება შესაძლებელია.",
+      "status": "active",
+      "sense_id": "l028.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L029",
+      "term": "გაგრძელება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "შეჩერებული ან მიმდინარე მოქმედების გაგრძელება",
+      "example": "გააგრძელეთ მეორე ნაბიჯიდან.",
+      "representative_form": "გააგრძელეთ",
+      "usage_note": "დასაწყისიდან გამეორებას არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l029.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L030",
+      "term": "დასრულება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მოქმედების განსაზღვრულ საბოლოო მდგომარეობამდე მიყვანა",
+      "example": "დაასრულეთ შემოწმება.",
+      "representative_form": "დაასრულეთ",
+      "usage_note": "წარმატების კრიტერიუმი ცალკე განსაზღვრეთ.",
+      "status": "active",
+      "sense_id": "l030.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L031",
+      "term": "შემოწმება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ობიექტის მოთხოვნასთან შედარება",
+      "example": "შეამოწმეთ ფაილის ფორმატი.",
+      "representative_form": "შეამოწმეთ",
+      "usage_note": "კრიტერიუმის გარეშე არასრულია.",
+      "status": "active",
+      "sense_id": "l031.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L032",
+      "term": "გადამოწმება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "არსებული შედეგის ხელახალი ან დამატებითი შემოწმება",
+      "example": "გადაამოწმეთ მიღებული რაოდენობა.",
+      "representative_form": "გადაამოწმეთ",
+      "usage_note": "ახალი წყარო ან მეთოდი საჭიროებისას დაასახელეთ.",
+      "status": "active",
+      "sense_id": "l032.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L033",
+      "term": "გაზომვა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "სიდიდის საზომი მეთოდით დადგენა",
+      "example": "გაზომეთ ნიმუშის სიგრძე.",
+      "representative_form": "გაზომეთ",
+      "usage_note": "შედეგს ერთეული ახლდეს.",
+      "status": "active",
+      "sense_id": "l033.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L034",
+      "term": "დათვლა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ცალკეული ერთეულების რაოდენობის დადგენა",
+      "example": "დათვალეთ მიღებული ფაილები.",
+      "representative_form": "დათვალეთ",
+      "usage_note": "გამოთვლასთან ავტომატურად არ გაიგივდეს.",
+      "status": "active",
+      "sense_id": "l034.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L035",
+      "term": "გამოთვლა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "მონაცემებიდან წესით რიცხვითი შედეგის მიღება",
+      "example": "გამოთვალეთ ორი მნიშვნელობის სხვაობა.",
+      "representative_form": "გამოთვალეთ",
+      "usage_note": "მეთოდი და საწყისი მონაცემები შეინარჩუნეთ.",
+      "status": "active",
+      "sense_id": "l035.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L036",
+      "term": "შედარება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ორი ან მეტი ობიექტის განსხვავებისა და მსგავსების დადგენა",
+      "example": "შეადარეთ ორი ვერსია.",
+      "representative_form": "შეადარეთ",
+      "usage_note": "მიუთითეთ შესადარებელი თვისება.",
+      "status": "active",
+      "sense_id": "l036.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L037",
+      "term": "დადასტურება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ინტერფეისში არჩეული ვარიანტის ან მოქმედების საბოლოოდ მიღება",
+      "example": "დაადასტურეთ არჩეული თარიღი.",
+      "representative_form": "დაადასტურეთ",
+      "usage_note": "აქ: არჩევანის დადასტურება. ფაქტის მტკიცებულებით დადასტურებისთვის იხილეთ L301.",
+      "status": "active",
+      "sense_id": "confirmation.ui_choice",
+      "related_ids": [
+        "L301"
+      ],
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L038",
+      "term": "დამტკიცება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "უფლებამოსილი პირის მიერ გადაწყვეტილების მიღება",
+      "example": "ხელმძღვანელმა გეგმა დაამტკიცა.",
+      "representative_form": "დაამტკიცეთ",
+      "usage_note": "უფლებამოსილება წყაროთი განისაზღვრება.",
+      "status": "active",
+      "sense_id": "l038.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L039",
+      "term": "უარყოფა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "წინადადების ან მოთხოვნის მიუღებლობის დაფიქსირება",
+      "example": "მიმღებმა მოთხოვნა უარყო.",
+      "representative_form": "უარყავით",
+      "usage_note": "წაშლას არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l039.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L040",
+      "term": "გაუქმება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "განზრახული მოქმედების ან მოქმედი გადაწყვეტილების გაუქმება",
+      "example": "გააუქმეთ ცვლილებების შენახვა.",
+      "representative_form": "გააუქმეთ",
+      "usage_note": "კონტექსტით დააზუსტეთ, რა რჩება.",
+      "status": "active",
+      "sense_id": "l040.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L041",
+      "term": "დაბლოკვა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "განსაზღვრული მოქმედების ხელმისაწვდომობის შეზღუდვა",
+      "example": "დაბლოკეთ საცდელი ანგარიში.",
+      "representative_form": "დაბლოკეთ",
+      "usage_note": "არ ნიშნავს მონაცემების წაშლას.",
+      "status": "active",
+      "sense_id": "l041.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L042",
+      "term": "განბლოკვა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "დაწესებული ბლოკის მოხსნა",
+      "example": "განბლოკეთ საცდელი ანგარიში.",
+      "representative_form": "განბლოკეთ",
+      "usage_note": "მხოლოდ არსებული შეზღუდვის ფარგლებს ეხება.",
+      "status": "active",
+      "sense_id": "l042.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L043",
+      "term": "განახლება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ჩანაწერში არსებული ინფორმაციის ახალი ინფორმაციით შეცვლა",
+      "example": "განაახლეთ საკონტაქტო ინფორმაცია.",
+      "representative_form": "განაახლეთ",
+      "usage_note": "მონაცემის ჩასწორება განასხვავეთ პროგრამის განახლებისა და გვერდის ხელახალი ჩატვირთვისგან: L303, L304.",
+      "status": "active",
+      "sense_id": "update.record",
+      "related_ids": [
+        "L303",
+        "L304"
+      ],
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L044",
+      "term": "ძიება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მოთხოვნილი ობიექტის მოსაძებნად მოქმედება",
+      "example": "მოძებნეთ ჩანაწერი ნომრით.",
+      "representative_form": "მოძებნეთ",
+      "usage_note": "ძიება პოვნას არ ადასტურებს.",
+      "status": "active",
+      "sense_id": "l044.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L045",
+      "term": "პოვნა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მოთხოვნილი ობიექტის აღმოჩენა",
+      "example": "სისტემამ ორი ჩანაწერი იპოვა.",
+      "representative_form": "იპოვეთ",
+      "usage_note": "დათვლის ფარგლები მიუთითეთ.",
+      "status": "active",
+      "sense_id": "l045.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L046",
+      "term": "ჩვენება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ინფორმაციის აღქმისთვის წარმოდგენა",
+      "example": "აჩვენეთ დამალული სვეტები.",
+      "representative_form": "აჩვენეთ",
+      "usage_note": "საცავში ცვლილებას აუცილებლობით არ იწვევს.",
+      "status": "active",
+      "sense_id": "l046.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L047",
+      "term": "დამალვა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ობიექტის მიმდინარე ხედიდან მოცილება",
+      "example": "დამალეთ დამატებითი ველები.",
+      "representative_form": "დამალეთ",
+      "usage_note": "წაშლისგან განსხვავდება.",
+      "status": "active",
+      "sense_id": "l047.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L048",
+      "term": "წაკითხვა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ტექსტის შინაარსის გაცნობა",
+      "example": "წაიკითხეთ ინსტრუქცია.",
+      "representative_form": "წაიკითხეთ",
+      "usage_note": "მოწონებას ან თანხმობას არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l048.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L049",
+      "term": "მოსმენა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ხმოვანი ინფორმაციის მიღება",
+      "example": "მოუსმინეთ ჩანაწერს.",
+      "representative_form": "მოუსმინეთ",
+      "usage_note": "მოსმენილი შედეგი ცალკე შეამოწმეთ.",
+      "status": "active",
+      "sense_id": "l049.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L050",
+      "term": "შეტყობინება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "პირისთვის ინფორმაციის მიწოდება",
+      "example": "შეატყობინეთ რედაქტორს შეცდომის შესახებ.",
+      "representative_form": "შეატყობინეთ",
+      "usage_note": "გზავნილის წაკითხვას არ ადასტურებს.",
+      "status": "active",
+      "sense_id": "l050.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L051",
+      "term": "დალოდება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "შემდგომი მოქმედების დროებით გადადება",
+      "example": "დაელოდეთ დასრულების შეტყობინებას.",
+      "representative_form": "დაელოდეთ",
+      "usage_note": "დაასახელეთ მოვლენა ან დროის ზღვარი.",
+      "status": "active",
+      "sense_id": "l051.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L052",
+      "term": "დაჭერა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "კონტროლის ზეწოლით ამოქმედება",
+      "example": "დააჭირეთ საცდელ ღილაკს.",
+      "representative_form": "დააჭირეთ",
+      "usage_note": "შენარჩუნება თუ საჭიროა, ცალკე თქვით.",
+      "status": "active",
+      "sense_id": "l052.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L053",
+      "term": "გაშვება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "პროგრამის ან განსაზღვრული პროცესის ამოქმედება",
+      "example": "გაუშვით საცდელი შემოწმება.",
+      "representative_form": "გაუშვით",
+      "usage_note": "საჯარო გამოშვების მნიშვნელობით ცალკე ტერმინი გამოიყენეთ.",
+      "status": "active",
+      "sense_id": "l053.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L054",
+      "term": "შესრულება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მითითებული მოქმედების განხორციელება",
+      "example": "შეასრულეთ პირველი ნაბიჯი.",
+      "representative_form": "შეასრულეთ",
+      "usage_note": "სასურველია უფრო კონკრეტული ზმნა, როცა ცნობილია.",
+      "status": "active",
+      "sense_id": "l054.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L055",
+      "term": "მიწოდება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "საჭირო რესურსის ან ინფორმაციის მიმღებისთვის გადაცემა",
+      "example": "სერვისი აწვდის მონაცემებს პროგრამას.",
+      "representative_form": "მიაწოდეთ",
+      "usage_note": "მიმღები და რესურსი დაასახელეთ.",
+      "status": "active",
+      "sense_id": "l055.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L056",
+      "term": "მოთხოვნა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "საჭირო მოქმედების ან ინფორმაციის თხოვნა",
+      "example": "მოითხოვეთ ფაილზე წვდომა.",
+      "representative_form": "მოითხოვეთ",
+      "usage_note": "მოთხოვნის დაკმაყოფილება ცალკე შედეგია.",
+      "status": "active",
+      "sense_id": "l056.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L057",
+      "term": "დაშვება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "განსაზღვრული მოქმედების ნებადართულად მიჩნევა",
+      "example": "დაუშვით მხოლოდ წაკითხვა.",
+      "representative_form": "დაუშვით",
+      "usage_note": "ტექნიკურ შესაძლებლობას არ უდრის.",
+      "status": "active",
+      "sense_id": "l057.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L058",
+      "term": "აკრძალვა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მოქმედების დაუშვებლად განსაზღვრა",
+      "example": "საცდელ გარემოში აკრძალეთ პირადი მონაცემების გამოქვეყნება.",
+      "representative_form": "აკრძალეთ",
+      "usage_note": "სუბიექტი და ფარგლები მნიშვნელოვანია.",
+      "status": "active",
+      "sense_id": "l058.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L059",
+      "term": "დაგეგმვა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "სამომავლო მოქმედების დროისა და რიგის განსაზღვრა",
+      "example": "დაგეგმეთ შემოწმება პარასკევს.",
+      "representative_form": "დაგეგმეთ",
+      "usage_note": "დაგეგმილი შესრულებულს არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l059.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L060",
+      "term": "აღწერა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "ობიექტის თვისებების ან მდგომარეობის გადმოცემა",
+      "example": "აღწერეთ შეცდომის გამოვლენა.",
+      "representative_form": "აღწერეთ",
+      "usage_note": "არ აურიოთ მიზეზის დაუდასტურებელ ახსნაში.",
+      "status": "active",
+      "sense_id": "l060.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L061",
+      "term": "ახსნა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "მნიშვნელობის ან კავშირის გასაგებად გადმოცემა",
+      "example": "ახსენით ტერმინი ერთი მაგალითით.",
+      "representative_form": "ახსენით",
+      "usage_note": "მაგალითი განსაზღვრებას არ ცვლის.",
+      "status": "active",
+      "sense_id": "l061.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L062",
+      "term": "განსაზღვრა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "ცნების, წესის ან ზღვრის ზუსტად ჩამოყალიბება",
+      "example": "განსაზღვრეთ მიღების კრიტერიუმი.",
+      "representative_form": "განსაზღვრეთ",
+      "usage_note": "უცნობი ფაქტის გამოგონებას არ გულისხმობს.",
+      "status": "active",
+      "sense_id": "l062.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L063",
+      "term": "დაზუსტება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "არსებული გაურკვევლობის შემცირება",
+      "example": "დააზუსტეთ, რომელი ფაილი უნდა წაიშალოს.",
+      "representative_form": "დააზუსტეთ",
+      "usage_note": "აზრის თვითნებური არჩევა არ არის დაზუსტება.",
+      "status": "active",
+      "sense_id": "l063.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L064",
+      "term": "მითითება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ზუსტი ობიექტის ან ინფორმაციის დასახელება",
+      "example": "მიუთითეთ ვერსიის ნომერი.",
+      "representative_form": "მიუთითეთ",
+      "usage_note": "მხოლოდ ზოგადი ბმული ყოველთვის საკმარისი არ არის.",
+      "status": "active",
+      "sense_id": "l064.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L065",
+      "term": "შემცირება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "სიდიდის ნაკლები მნიშვნელობისკენ შეცვლა",
+      "example": "შეამცირეთ საცდელი ინტერვალი.",
+      "representative_form": "შეამცირეთ",
+      "usage_note": "მნიშვნელობა და ერთეული დააზუსტეთ.",
+      "status": "active",
+      "sense_id": "l065.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L066",
+      "term": "გაზრდა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "სიდიდის მეტი მნიშვნელობისკენ შეცვლა",
+      "example": "გაზარდეთ ტექსტის ზომა.",
+      "representative_form": "გაზარდეთ",
+      "usage_note": "რამდენით და რამდენამდე განსხვავდება.",
+      "status": "active",
+      "sense_id": "l066.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L067",
+      "term": "გაყოფა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ერთი მთელის ნაწილებად დაყოფა",
+      "example": "გაყავით ტექსტი ორ აბზაცად.",
+      "representative_form": "გაყავით",
+      "usage_note": "მათემატიკური მოქმედებისთვის გამყოფი მიუთითეთ.",
+      "status": "active",
+      "sense_id": "l067.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L068",
+      "term": "გაერთიანება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ნაწილების ერთ მთლიანობაში მოქცევა",
+      "example": "გააერთიანეთ ორი სია.",
+      "representative_form": "გააერთიანეთ",
+      "usage_note": "დუბლიკატების ბედი ცალკე განსაზღვრეთ.",
+      "status": "active",
+      "sense_id": "l068.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L069",
+      "term": "დალაგება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ობიექტების მითითებული წესით მოწესრიგება",
+      "example": "დაალაგეთ სია თარიღის მიხედვით.",
+      "representative_form": "დაალაგეთ",
+      "usage_note": "ზრდადი ან კლებადი რიგი დააზუსტეთ.",
+      "status": "active",
+      "sense_id": "l069.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L070",
+      "term": "გაფილტვრა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "კრიტერიუმის შესაბამისი ნაწილის გამოყოფა",
+      "example": "გაფილტრეთ სია სტატუსით.",
+      "representative_form": "გაფილტრეთ",
+      "usage_note": "დანარჩენი მონაცემების წაშლას არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l070.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L071",
+      "term": "გადახედვა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "შინაარსის შეფასების მიზნით გაცნობა",
+      "example": "გადახედეთ ცვლილებების სიას.",
+      "representative_form": "გადახედეთ",
+      "usage_note": "სრული შემოწმება მხოლოდ მითითებული კრიტერიუმით დასტურდება.",
+      "status": "active",
+      "sense_id": "l071.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L072",
+      "term": "შესწორება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "აღმოჩენილი შეცდომის გასწორება",
+      "example": "შეასწორეთ არასწორი თარიღი.",
+      "representative_form": "შეასწორეთ",
+      "usage_note": "სწორი მნიშვნელობის წყარო უნდა არსებობდეს.",
+      "status": "active",
+      "sense_id": "l072.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L073",
+      "term": "დაფიქსირება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "მოვლენის ან შედეგის ჩანაწერში ასახვა",
+      "example": "დააფიქსირეთ შემოწმების დრო.",
+      "representative_form": "დააფიქსირეთ",
+      "usage_note": "ფიზიკურად დამაგრება სხვა მნიშვნელობაა.",
+      "status": "active",
+      "sense_id": "l073.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L074",
+      "term": "მოხსენება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "შედეგის პასუხისმგებელი პირისთვის წარდგენა",
+      "example": "მოახსენეთ ხელმძღვანელს შედეგი.",
+      "representative_form": "მოახსენეთ",
+      "usage_note": "მოხსენება დამტკიცებას არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l074.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L075",
+      "term": "შენარჩუნება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "არსებული თვისების ან მდგომარეობის უცვლელად დატოვება",
+      "example": "შეინარჩუნეთ საწყისი ნომრები.",
+      "representative_form": "შეინარჩუნეთ",
+      "usage_note": "რა უნდა დარჩეს უცვლელი, დაასახელეთ.",
+      "status": "active",
+      "sense_id": "l075.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L076",
+      "term": "დაცვა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "ობიექტზე განსაზღვრული ზემოქმედების შეზღუდვა",
+      "example": "დაიცავით ფაილი ცვლილებისგან.",
+      "representative_form": "დაიცავით",
+      "usage_note": "დაცვის მექანიზმი საჭიროებისას მიუთითეთ.",
+      "status": "active",
+      "sense_id": "l076.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L077",
+      "term": "შეწყვეტა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მიმდინარე მოქმედების დასრულება გაგრძელების დაპირების გარეშე",
+      "example": "შეწყვიტეთ მიმდინარე სესია.",
+      "representative_form": "შეწყვიტეთ",
+      "usage_note": "დროებითი შეჩერებისგან განასხვავეთ.",
+      "status": "active",
+      "sense_id": "l077.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L078",
+      "term": "დამუშავება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მონაცემებზე განსაზღვრული ოპერაციების შესრულება",
+      "example": "სისტემა ამუშავებს ფაილს.",
+      "representative_form": "დაამუშავეთ",
+      "usage_note": "ზოგად სიტყვას კონკრეტული ეტაპები დაურთეთ.",
+      "status": "active",
+      "sense_id": "l078.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L079",
+      "term": "გამოქვეყნება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ინფორმაციის განსაზღვრული აუდიტორიისთვის ხელმისაწვდომად ქცევა",
+      "example": "გამოაქვეყნეთ დამტკიცებული ტექსტი.",
+      "representative_form": "გამოაქვეყნეთ",
+      "usage_note": "აუდიტორია და წვდომა დააზუსტეთ.",
+      "status": "active",
+      "sense_id": "l079.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L080",
+      "term": "დაშიფვრა",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "მონაცემის გასაღებზე დამოკიდებულ დაცულ წარმოდგენად გარდაქმნა",
+      "example": "დაშიფრეთ საცდელი ასლი.",
+      "representative_form": "დაშიფრეთ",
+      "usage_note": "დაშიფვრა წვდომის ყველა პრობლემას არ აგვარებს.",
+      "status": "active",
+      "sense_id": "l080.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L081",
+      "term": "მომხმარებელი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ადამიანი, რომელიც სისტემას იყენებს",
+      "example": "მომხმარებელი ხედავს საკუთარ ფაილებს.",
+      "representative_form": "",
+      "usage_note": "როლი კონტექსტში განსაზღვრეთ.",
+      "status": "active",
+      "sense_id": "l081.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L082",
+      "term": "ოპერატორი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "პირი, რომელიც განსაზღვრულ სამუშაოს ასრულებს",
+      "example": "ოპერატორი ამოწმებს ჩანაწერს.",
+      "representative_form": "",
+      "usage_note": "უფლებები ავტომატურად არ იგულისხმება.",
+      "status": "active",
+      "sense_id": "l082.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L083",
+      "term": "ადმინისტრატორი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "სისტემის მართვის განსაზღვრული უფლებების მქონე როლი",
+      "example": "ადმინისტრატორი ცვლის წვდომას.",
+      "representative_form": "",
+      "usage_note": "კონკრეტული უფლებები პროდუქტზეა დამოკიდებული.",
+      "status": "active",
+      "sense_id": "l083.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L084",
+      "term": "ავტორი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "პირი, რომელმაც ტექსტი შეადგინა",
+      "example": "ავტორმა მაგალითი დაამატა.",
+      "representative_form": "",
+      "usage_note": "შემმოწმებელი შეიძლება სხვა პირი იყოს.",
+      "status": "active",
+      "sense_id": "l084.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L085",
+      "term": "რედაქტორი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "პირი, რომელიც ტექსტის ფორმასა და სიცხადეს ამოწმებს",
+      "example": "რედაქტორი აზრის ცვლილებას აღნიშნავს.",
+      "representative_form": "",
+      "usage_note": "ტექნიკურ ექსპერტს არ ანაცვლებს.",
+      "status": "active",
+      "sense_id": "l085.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L086",
+      "term": "შემმოწმებელი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "პირი ან მექანიზმი, რომელიც კრიტერიუმთან ადარებს შედეგს",
+      "example": "შემმოწმებელმა ორი ხარვეზი იპოვა.",
+      "representative_form": "",
+      "usage_note": "მეთოდი და ფარგლები უნდა ჩანდეს.",
+      "status": "active",
+      "sense_id": "l086.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L087",
+      "term": "მიმღები",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მხარე, რომლისთვისაც ობიექტი იგზავნება",
+      "example": "მიმღებმა ფაილი მიიღო.",
+      "representative_form": "",
+      "usage_note": "გამგზავნთან არ აირიოს.",
+      "status": "active",
+      "sense_id": "l087.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L088",
+      "term": "გამგზავნი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მხარე, რომელიც ობიექტს აგზავნის",
+      "example": "გამგზავნის სახელი მითითებულია.",
+      "representative_form": "",
+      "usage_note": "ავტორი აუცილებლობით არ არის.",
+      "status": "active",
+      "sense_id": "l088.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L089",
+      "term": "პასუხისმგებელი პირი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "პირი, რომელსაც განსაზღვრული შედეგი აბარია",
+      "example": "დანიშნეთ პასუხისმგებელი პირი.",
+      "representative_form": "",
+      "usage_note": "პასუხისმგებლობის ფარგლები მიუთითეთ.",
+      "status": "active",
+      "sense_id": "l089.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L090",
+      "term": "როლი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "უფლებებისა და მოვალეობების განსაზღვრული ერთობლიობა",
+      "example": "აირჩიეთ მომხმარებლის როლი.",
+      "representative_form": "",
+      "usage_note": "სამუშაო თანამდებობას ყოველთვის არ ემთხვევა.",
+      "status": "active",
+      "sense_id": "l090.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L091",
+      "term": "ანგარიში",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "A",
+        "U"
+      ],
+      "meaning": "სისტემაში მომხმარებლის რეგისტრირებული ერთეული",
+      "example": "ანგარიში დაბლოკილია.",
+      "representative_form": "",
+      "usage_note": "აქ: მომხმარებლის ანგარიში. საქმიანობის აღმწერ ანგარიშს სხვა მნიშვნელობა აქვს; იხილეთ L092.",
+      "status": "active",
+      "sense_id": "account.user",
+      "related_ids": [
+        "L092"
+      ],
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L092",
+      "term": "ანგარიში",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "საქმიანობის ან შედეგების ამსახველი დოკუმენტი",
+      "example": "გახსენით შემოწმების ანგარიში.",
+      "representative_form": "",
+      "usage_note": "აქ: შედეგების ამსახველი დოკუმენტი. „ანგარიშგება“ ავტომატური სინონიმი არ არის; დარგობრივ ტერმინს, მაგალითად „ფინანსურ ანგარიშგებას“, ცალკე კონტექსტი აქვს.",
+      "status": "active",
+      "sense_id": "report.document",
+      "related_ids": [
+        "L091",
+        "L302"
+      ],
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L093",
+      "term": "განაცხადი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "განსაზღვრული მიზნისთვის წარდგენილი მოთხოვნის დოკუმენტი",
+      "example": "განაცხადი მიღებულია.",
+      "representative_form": "",
+      "usage_note": "მიღება დამტკიცებას არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l093.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L094",
+      "term": "ჩანაწერი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "სისტემაში ცალკე შენახული ინფორმაციული ერთეული",
+      "example": "ჩანაწერს უნიკალური ნომერი აქვს.",
+      "representative_form": "",
+      "usage_note": "სტრუქტურა პროდუქტმა უნდა განსაზღვროს.",
+      "status": "active",
+      "sense_id": "l094.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L095",
+      "term": "დოკუმენტი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ორგანიზებული შინაარსის მქონე ინფორმაციული ერთეული",
+      "example": "დოკუმენტი სამ ნაწილს შეიცავს.",
+      "representative_form": "",
+      "usage_note": "ერთი დოკუმენტი რამდენიმე ფაილში შეიძლება იყოს.",
+      "status": "active",
+      "sense_id": "l095.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L096",
+      "term": "ფაილი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "სახელით შენახული ციფრული მონაცემების ერთეული",
+      "example": "ფაილის ზომაა 2 MB.",
+      "representative_form": "",
+      "usage_note": "სახელი და ფორმატი განასხვავეთ.",
+      "status": "active",
+      "sense_id": "l096.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L097",
+      "term": "საქაღალდე",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ფაილების ან სხვა საქაღალდეების დასაჯგუფებელი ადგილი",
+      "example": "საქაღალდე ცარიელია.",
+      "representative_form": "",
+      "usage_note": "წაშლის მასშტაბი წინასწარ დააზუსტეთ.",
+      "status": "active",
+      "sense_id": "l097.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L098",
+      "term": "ასლი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "საწყისი ობიექტის გამეორებული ეგზემპლარი",
+      "example": "შეინახეთ ფაილის ასლი.",
+      "representative_form": "",
+      "usage_note": "აქტუალურობა და სისრულე ცალკე მოწმდება.",
+      "status": "active",
+      "sense_id": "l098.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L099",
+      "term": "ვერსია",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ობიექტის განსაზღვრული ცვლილებების მდგომარეობა",
+      "example": "გახსენით ვერსია 2.",
+      "representative_form": "",
+      "usage_note": "თარიღი ვერსიის ნომერს ყოველთვის არ ცვლის.",
+      "status": "active",
+      "sense_id": "l099.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L100",
+      "term": "შაბლონი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "განმეორებით გამოსაყენებელი წინასწარი სტრუქტურა",
+      "example": "შეავსეთ პროცედურის შაბლონი.",
+      "representative_form": "",
+      "usage_note": "შევსების გარეშე დასრულებული ტექსტი არ არის.",
+      "status": "active",
+      "sense_id": "l100.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L101",
+      "term": "ტექსტი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ენობრივი შინაარსის წერილობითი წარმოდგენა",
+      "example": "ტექსტი ერთი აბზაცით იწყება.",
+      "representative_form": "",
+      "usage_note": "ზუსტი ციტატა უცვლელად შეინარჩუნეთ.",
+      "status": "active",
+      "sense_id": "l101.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L102",
+      "term": "წინადადება",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "დასრულებული აზრის გრამატიკული ერთეული",
+      "example": "გაყავით გრძელი წინადადება.",
+      "representative_form": "",
+      "usage_note": "აზრობრივი კავშირი არ დაკარგოთ.",
+      "status": "active",
+      "sense_id": "l102.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L103",
+      "term": "აბზაცი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "ტექსტის ერთ თემაზე ორიენტირებული მონაკვეთი",
+      "example": "აბზაცი მთავარი აზრით იწყება.",
+      "representative_form": "",
+      "usage_note": "მხოლოდ სიგრძით არ განისაზღვრება.",
+      "status": "active",
+      "sense_id": "l103.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L104",
+      "term": "სათაური",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ნაწილის ან ობიექტის სახელწოდება",
+      "example": "სათაური აღწერს მოქმედებას.",
+      "representative_form": "",
+      "usage_note": "მოერიდეთ ზედმეტად ზოგად სათაურს.",
+      "status": "active",
+      "sense_id": "l104.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L105",
+      "term": "ტერმინი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "კონტექსტში განსაზღვრული ცნების სახელწოდება",
+      "example": "ტერმინი ლექსიკონში დაამატეთ.",
+      "representative_form": "",
+      "usage_note": "ერთი ჩანაწერი ერთ მნიშვნელობას ეხება.",
+      "status": "active",
+      "sense_id": "l105.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L106",
+      "term": "მნიშვნელობა",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "სიტყვით ან ნიშნით გადმოცემული აზრი",
+      "example": "შეინარჩუნეთ ტერმინის მნიშვნელობა.",
+      "representative_form": "",
+      "usage_note": "რიცხვითი მნიშვნელობა ცალკე ჩანაწერია.",
+      "status": "active",
+      "sense_id": "l106.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L107",
+      "term": "განმარტება",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ცნების გასაგებად ჩამოყალიბებული ახსნა",
+      "example": "განმარტებას მაგალითი დაურთეთ.",
+      "representative_form": "",
+      "usage_note": "მოერიდეთ წრიულ განმარტებას.",
+      "status": "active",
+      "sense_id": "l107.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L108",
+      "term": "მაგალითი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "წესის ან ცნების საჩვენებელი შემთხვევა",
+      "example": "მაგალითი საცდელ მონაცემებს იყენებს.",
+      "representative_form": "",
+      "usage_note": "რეალური მტკიცებულება არ არის.",
+      "status": "active",
+      "sense_id": "l108.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L109",
+      "term": "ციტატა",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "წყაროდან ზუსტად გადმოტანილი სიტყვები",
+      "example": "ციტატას წყარო მიუთითეთ.",
+      "representative_form": "",
+      "usage_note": "პარაფრაზი ციტატად არ გააფორმოთ.",
+      "status": "active",
+      "sense_id": "l109.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L110",
+      "term": "წყარო",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "ინფორმაციის წარმომავლობის დასადგენი მასალა",
+      "example": "წყაროში ვერსია მითითებულია.",
+      "representative_form": "",
+      "usage_note": "ენერგიის წყარო სხვა მნიშვნელობაა.",
+      "status": "active",
+      "sense_id": "l110.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L111",
+      "term": "მტკიცებულება",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "მასალა, რომელიც კონკრეტულ მტკიცებას ამყარებს",
+      "example": "ჟურნალი გაგზავნას ადასტურებს.",
+      "representative_form": "",
+      "usage_note": "მტკიცებულების ფარგლები შეინარჩუნეთ.",
+      "status": "active",
+      "sense_id": "l111.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L112",
+      "term": "ფაქტი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "რეალური გარემოება, რომლის შესახებაც მტკიცება კეთდება",
+      "example": "ეს ფაქტი ჩანაწერით დასტურდება.",
+      "representative_form": "",
+      "usage_note": "ფაქტად გამოცხადება მტკიცებულებას არ ქმნის.",
+      "status": "active",
+      "sense_id": "l112.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L113",
+      "term": "დასკვნა",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "მოცემული საფუძვლებიდან მიღებული მსჯელობის შედეგი",
+      "example": "დასკვნა ორ დაკვირვებას ეყრდნობა.",
+      "representative_form": "",
+      "usage_note": "ვარაუდი და დადასტურება განასხვავეთ.",
+      "status": "active",
+      "sense_id": "l113.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L114",
+      "term": "ვარაუდი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "ჯერ დაუდასტურებელი შესაძლო ახსნა ან წინაპირობა",
+      "example": "ეს ვარაუდი ჯერ არ შემოწმებულა.",
+      "representative_form": "",
+      "usage_note": "ფაქტის სტატუსი არ მიანიჭოთ.",
+      "status": "active",
+      "sense_id": "l114.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L115",
+      "term": "დაკვირვება",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "მეთოდით ან უშუალოდ დაფიქსირებული მოვლენა",
+      "example": "დაკვირვება საცდელ გარემოში ჩატარდა.",
+      "representative_form": "",
+      "usage_note": "მიზეზს თავისთავად არ ადგენს.",
+      "status": "active",
+      "sense_id": "l115.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L116",
+      "term": "კრიტერიუმი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "შეფასების წინასწარ განსაზღვრული პირობა",
+      "example": "შედეგი კრიტერიუმს აკმაყოფილებს.",
+      "representative_form": "",
+      "usage_note": "შემდეგ მორგებული კრიტერიუმი მიუთითეთ.",
+      "status": "active",
+      "sense_id": "l116.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L117",
+      "term": "მოთხოვნა",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "აუცილებლად დასაკმაყოფილებელი პირობა",
+      "example": "ეს მოთხოვნა ყველა ფაილს ეხება.",
+      "representative_form": "",
+      "usage_note": "თხოვნის მოქმედებისგან ცალკე მნიშვნელობაა.",
+      "status": "active",
+      "sense_id": "l117.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L118",
+      "term": "პირობა",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "გარემოება, რომელზეც მოქმედება ან შედეგია დამოკიდებული",
+      "example": "პირობა შესრულებულია.",
+      "representative_form": "",
+      "usage_note": "მოთხოვნასთან ყოველთვის არ გაიგივდეს.",
+      "status": "active",
+      "sense_id": "l118.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L119",
+      "term": "წინაპირობა",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "დაწყებამდე აუცილებელი მდგომარეობა",
+      "example": "წინაპირობაა ფაილზე წვდომა.",
+      "representative_form": "",
+      "usage_note": "პროცედურამდე მიუთითეთ.",
+      "status": "active",
+      "sense_id": "l119.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L120",
+      "term": "გამონაკლისი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ზოგადი წესის ფარგლებს გარეთ განსაზღვრული შემთხვევა",
+      "example": "გამონაკლისი მხოლოდ საცდელ მონაცემებს ეხება.",
+      "representative_form": "",
+      "usage_note": "ფარგლები ზუსტად დაასახელეთ.",
+      "status": "active",
+      "sense_id": "l120.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L121",
+      "term": "მიზანი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "სასურველი შედეგი, რომლისთვისაც მოქმედება სრულდება",
+      "example": "მიზანია დუბლიკატების პოვნა.",
+      "representative_form": "",
+      "usage_note": "მიღებულ შედეგს არ უდრის.",
+      "status": "active",
+      "sense_id": "l121.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L122",
+      "term": "ამოცანა",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "შესასრულებელი განსაზღვრული სამუშაო",
+      "example": "ამოცანა შემმოწმებელს დაენიშნა.",
+      "representative_form": "",
+      "usage_note": "დარგობრივი „საქმე“ ცალკე ცნება შეიძლება იყოს.",
+      "status": "active",
+      "sense_id": "l122.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L123",
+      "term": "პროცედურა",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "მიზნისთვის განსაზღვრული ნაბიჯების ერთობლიობა",
+      "example": "პროცედურას ოთხი ნაბიჯი აქვს.",
+      "representative_form": "",
+      "usage_note": "აღწერა ყოველთვის პროცედურა არ არის.",
+      "status": "active",
+      "sense_id": "l123.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L124",
+      "term": "ნაბიჯი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "პროცედურის ერთი განსაზღვრული ნაწილი",
+      "example": "მესამე ნაბიჯი დასრულებულია.",
+      "representative_form": "",
+      "usage_note": "ზუსტი ნომერი გამოიყენეთ.",
+      "status": "active",
+      "sense_id": "l124.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L125",
+      "term": "მოქმედება",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "შემსრულებლის ან სისტემის მიერ განხორციელებული ოპერაცია",
+      "example": "მოქმედება ჯერ არ დაწყებულა.",
+      "representative_form": "",
+      "usage_note": "შედეგისგან განასხვავეთ.",
+      "status": "active",
+      "sense_id": "l125.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L126",
+      "term": "პროცესი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "დროში მიმდინარე ურთიერთდაკავშირებული ცვლილებები",
+      "example": "დამუშავების პროცესი გრძელდება.",
+      "representative_form": "",
+      "usage_note": "შესასრულებელ ინსტრუქციას ავტომატურად არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l126.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L127",
+      "term": "შედეგი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მოქმედების შემდეგ მიღებული მდგომარეობა ან მონაცემი",
+      "example": "შედეგი ცხრილში ჩაიწერა.",
+      "representative_form": "",
+      "usage_note": "მიღების კრიტერიუმი მიუთითეთ.",
+      "status": "active",
+      "sense_id": "l127.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L128",
+      "term": "მდგომარეობა",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ობიექტის მოცემულ მომენტში არსებული თვისებები",
+      "example": "მდგომარეობა შეიცვალა.",
+      "representative_form": "",
+      "usage_note": "სტატუსის წარწერა რეალობას უნდა ემთხვეოდეს.",
+      "status": "active",
+      "sense_id": "l128.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L129",
+      "term": "სტატუსი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მდგომარეობის შეთანხმებული სახელწოდება",
+      "example": "სტატუსია „მუშავდება“.",
+      "representative_form": "",
+      "usage_note": "ყოველი სტატუსის პირობა განსაზღვრეთ.",
+      "status": "active",
+      "sense_id": "l129.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L130",
+      "term": "ეტაპი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "პროცესის გამოყოფილი მონაკვეთი",
+      "example": "დამუშავება მეორე ეტაპზეა.",
+      "representative_form": "",
+      "usage_note": "დასრულებას ავტომატურად არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l130.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L131",
+      "term": "მეთოდი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "ამოცანის შესასრულებელი განსაზღვრული გზა",
+      "example": "მეთოდი აღწერილია დანართში.",
+      "representative_form": "",
+      "usage_note": "ინსტრუმენტის სახელით არ ჩაანაცვლოთ.",
+      "status": "active",
+      "sense_id": "l131.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L132",
+      "term": "ინსტრუმენტი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "სამუშაოს შესასრულებელი საშუალება",
+      "example": "აირჩიეთ შესაბამისი ინსტრუმენტი.",
+      "representative_form": "",
+      "usage_note": "ზუსტი სახელი ხშირად უფრო სასარგებლოა.",
+      "status": "active",
+      "sense_id": "l132.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L133",
+      "term": "მოწყობილობა",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "ფიზიკური ფუნქციის შემსრულებელი ერთეული",
+      "example": "მოწყობილობას ნომერი აქვს.",
+      "representative_form": "",
+      "usage_note": "ვერსია ან მოდელი საჭიროებისას მიუთითეთ.",
+      "status": "active",
+      "sense_id": "l133.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L134",
+      "term": "სისტემა",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "დაკავშირებული ნაწილების ფუნქციური ერთობლიობა",
+      "example": "სისტემა მოთხოვნებს ამუშავებს.",
+      "representative_form": "",
+      "usage_note": "მისი საზღვარი დაასახელეთ.",
+      "status": "active",
+      "sense_id": "l134.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L135",
+      "term": "სერვისი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "განსაზღვრული ფუნქციის მიმწოდებელი პროგრამული ნაწილი",
+      "example": "სერვისი დროებით მიუწვდომელია.",
+      "representative_form": "",
+      "usage_note": "ბიზნესმომსახურება სხვა კონტექსტია.",
+      "status": "active",
+      "sense_id": "l135.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L136",
+      "term": "პროგრამა",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "კომპიუტერში შესასრულებელი ინსტრუქციების ერთობლიობა",
+      "example": "პროგრამა ფაილს ხსნის.",
+      "representative_form": "",
+      "usage_note": "გეგმის მნიშვნელობით სხვა სიტყვა გამოიყენეთ.",
+      "status": "active",
+      "sense_id": "l136.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L137",
+      "term": "გარემო",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "სისტემის მუშაობის კონკრეტული პირობები და კონფიგურაცია",
+      "example": "ტესტი საცდელ გარემოში შესრულდა.",
+      "representative_form": "",
+      "usage_note": "რეალურ გარემოს არ გაუტოლოთ.",
+      "status": "active",
+      "sense_id": "l137.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L138",
+      "term": "პარამეტრი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ქცევის ან კონფიგურაციის განმსაზღვრელი მნიშვნელობა",
+      "example": "პარამეტრი უცვლელი დატოვეთ.",
+      "representative_form": "",
+      "usage_note": "ზუსტი სახელი მიუთითეთ.",
+      "status": "active",
+      "sense_id": "l138.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L139",
+      "term": "კონფიგურაცია",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "სისტემის პარამეტრების შეთანხმებული ერთობლიობა",
+      "example": "შეინახეთ კონფიგურაციის ასლი.",
+      "representative_form": "",
+      "usage_note": "ფაილის ასლი მოქმედ კონფიგურაციას ყოველთვის არ უდრის.",
+      "status": "active",
+      "sense_id": "l139.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L140",
+      "term": "ინტერფეისი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მომხმარებლისა და სისტემის ურთიერთქმედების საშუალებები",
+      "example": "ინტერფეისი შეცდომას აჩვენებს.",
+      "representative_form": "",
+      "usage_note": "პროგრამული ინტერფეისი საჭიროებისას ცალკე განმარტეთ.",
+      "status": "active",
+      "sense_id": "l140.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L141",
+      "term": "ველი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "კონკრეტული მონაცემის შესაყვანი ან საჩვენებელი ადგილი",
+      "example": "ველში თარიღი შეიყვანეთ.",
+      "representative_form": "",
+      "usage_note": "სათაური და მნიშვნელობა განასხვავეთ.",
+      "status": "active",
+      "sense_id": "l141.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L142",
+      "term": "ღილაკი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მოქმედების გასააქტიურებელი კონტროლი",
+      "example": "აირჩიეთ ღილაკი „შენახვა“.",
+      "representative_form": "",
+      "usage_note": "ზუსტი ხილული სახელი გამოიყენეთ.",
+      "status": "active",
+      "sense_id": "l142.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L143",
+      "term": "ჩანართი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "A",
+        "U"
+      ],
+      "meaning": "ინტერფეისის ერთი განყოფილების ასარჩევი ნაწილი",
+      "example": "გახსენით ჩანართი „ფაილები“.",
+      "representative_form": "",
+      "usage_note": "ახალი ფანჯრისგან განასხვავეთ.",
+      "status": "active",
+      "sense_id": "l143.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L144",
+      "term": "ფანჯარა",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ინტერფეისის ცალკე გამოსახული სამუშაო არე",
+      "example": "დახურეთ დახმარების ფანჯარა.",
+      "representative_form": "",
+      "usage_note": "ფიზიკური სარკმელი ამ მნიშვნელობაში არ შედის.",
+      "status": "active",
+      "sense_id": "l144.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L145",
+      "term": "მენიუ",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "არჩევის ხელმისაწვდომი მოქმედებების სია",
+      "example": "მენიუში აირჩიეთ ენა.",
+      "representative_form": "",
+      "usage_note": "ყველა სია მენიუ არ არის.",
+      "status": "active",
+      "sense_id": "l145.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L146",
+      "term": "ბმული",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "სხვა რესურსზე გადასასვლელი მითითება",
+      "example": "ბმული ინსტრუქციას ხსნის.",
+      "representative_form": "",
+      "usage_note": "წარწერამ დანიშნულება აჩვენოს.",
+      "status": "active",
+      "sense_id": "l146.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L147",
+      "term": "შეტყობინება",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მომხმარებლისთვის წარმოდგენილი მოკლე ინფორმაცია",
+      "example": "შეტყობინება მიღებას ადასტურებს.",
+      "representative_form": "",
+      "usage_note": "მოქმედების სახელისგან ცალკე მნიშვნელობაა.",
+      "status": "active",
+      "sense_id": "l147.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L148",
+      "term": "მინიშნება",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მოქმედების გამარტივებისთვის დამატებული მოკლე ახსნა",
+      "example": "მინიშნება თარიღის ფორმატს აჩვენებს.",
+      "representative_form": "",
+      "usage_note": "სავალდებულო სახელს არ ანაცვლებს.",
+      "status": "active",
+      "sense_id": "l148.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L149",
+      "term": "სია",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ცალკეული ელემენტების წარმოდგენა",
+      "example": "სია თარიღით დალაგებულია.",
+      "representative_form": "",
+      "usage_note": "რიგითობის მნიშვნელობა მიუთითეთ.",
+      "status": "active",
+      "sense_id": "l149.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L150",
+      "term": "ცხრილი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მონაცემების სტრიქონებად და სვეტებად წარმოდგენა",
+      "example": "ცხრილს ორი სვეტი აქვს.",
+      "representative_form": "",
+      "usage_note": "სათაურები მკაფიო იყოს.",
+      "status": "active",
+      "sense_id": "l150.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L151",
+      "term": "სტრიქონი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ცხრილის ჰორიზონტალური ჩანაწერთა რიგი",
+      "example": "წაიკითხეთ მესამე სტრიქონი.",
+      "representative_form": "",
+      "usage_note": "ტექსტის ხაზი სხვა კონტექსტია.",
+      "status": "active",
+      "sense_id": "l151.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L152",
+      "term": "სვეტი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ცხრილში ერთი ტიპის მონაცემების ვერტიკალური რიგი",
+      "example": "სვეტი შედეგებს აჩვენებს.",
+      "representative_form": "",
+      "usage_note": "ერთეულები სათაურში მიუთითეთ.",
+      "status": "active",
+      "sense_id": "l152.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L153",
+      "term": "ფორმატი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ინფორმაციის ჩაწერის ან წარმოდგენის წესი",
+      "example": "ფორმატია დღე.თვე.წელი.",
+      "representative_form": "",
+      "usage_note": "ფაილის ტიპისა და ვიზუალური სტილისგან განასხვავეთ.",
+      "status": "active",
+      "sense_id": "l153.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L154",
+      "term": "იდენტიფიკატორი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ობიექტის ამოსაცნობი მნიშვნელობა",
+      "example": "იდენტიფიკატორი უცვლელად გადაიტანეთ.",
+      "representative_form": "",
+      "usage_note": "ნულები და რეგისტრი შეიძლება მნიშვნელოვანი იყოს.",
+      "status": "active",
+      "sense_id": "l154.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L155",
+      "term": "ნომერი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ობიექტის რიცხვითი აღმნიშვნელი",
+      "example": "ჩანაწერის ნომერია 42.",
+      "representative_form": "",
+      "usage_note": "რაოდენობას არ უდრის.",
+      "status": "active",
+      "sense_id": "l155.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L156",
+      "term": "პაროლი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "წვდომის შესამოწმებელი საიდუმლო ტექსტი",
+      "example": "პაროლი დამალულია.",
+      "representative_form": "",
+      "usage_note": "მაგალითში რეალური საიდუმლო არ გამოიყენოთ.",
+      "status": "active",
+      "sense_id": "l156.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L157",
+      "term": "წვდომა",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ობიექტზე განსაზღვრული მოქმედების შესრულების უფლება",
+      "example": "მომხმარებელს წაკითხვის წვდომა აქვს.",
+      "representative_form": "",
+      "usage_note": "უფლება არ ამტკიცებს, რომ სერვისი ამ მომენტში ტექნიკურად ხელმისაწვდომია; იხილეთ L305.",
+      "status": "active",
+      "sense_id": "access.permission",
+      "related_ids": [
+        "L305"
+      ],
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L158",
+      "term": "უფლება",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ნებადართული მოქმედების განსაზღვრული ფარგლები",
+      "example": "როლს წაშლის უფლება არ აქვს.",
+      "representative_form": "",
+      "usage_note": "შესაძლებლობისგან განსხვავდება.",
+      "status": "active",
+      "sense_id": "l158.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L159",
+      "term": "შეზღუდვა",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ქცევის ან მნიშვნელობის დადგენილი საზღვარი",
+      "example": "შეზღუდვა ერთ ფაილს ეხება.",
+      "representative_form": "",
+      "usage_note": "ზუსტი ფარგლები მიუთითეთ.",
+      "status": "active",
+      "sense_id": "l159.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L160",
+      "term": "ნებართვა",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მოქმედების შესრულების დაშვება",
+      "example": "გამოქვეყნების ნებართვა მიღებულია.",
+      "representative_form": "",
+      "usage_note": "მომზადებას შესრულების ნებართვად ნუ მიიჩნევთ.",
+      "status": "active",
+      "sense_id": "l160.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L161",
+      "term": "დრო",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მოვლენის დადგომის მომენტი",
+      "example": "ჩაწერეთ შემოწმების დაწყების დრო.",
+      "representative_form": "",
+      "usage_note": "თუ თარიღი ან დროის სარტყელი მნიშვნელობას ცვლის, მიუთითეთ ისიც. ხანგრძლივობისთვის იხილეთ L306.",
+      "status": "active",
+      "sense_id": "time.instant",
+      "related_ids": [
+        "L306"
+      ],
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L162",
+      "term": "თარიღი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "კალენდარული დღის აღმნიშვნელი",
+      "example": "მიუთითეთ სრული თარიღი.",
+      "representative_form": "",
+      "usage_note": "წელი საჭიროებისას აუცილებელია.",
+      "status": "active",
+      "sense_id": "l162.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L163",
+      "term": "ვადა",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მოქმედებისთვის განსაზღვრული დროის ზღვარი",
+      "example": "ვადა დღეს 18:00-ზე იწურება.",
+      "representative_form": "",
+      "usage_note": "სარტყელი და თარიღი საჭიროებისას დაურთეთ.",
+      "status": "active",
+      "sense_id": "l163.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L164",
+      "term": "ხანგრძლივობა",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "დაწყებიდან დასრულებამდე გასული დრო",
+      "example": "ხანგრძლივობაა 30 წამი.",
+      "representative_form": "",
+      "usage_note": "მომენტისგან განასხვავეთ.",
+      "status": "active",
+      "sense_id": "l164.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L165",
+      "term": "ინტერვალი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "ორ მოვლენას შორის დაშორება დროში",
+      "example": "შემოწმებებს შორის ინტერვალია 1 საათი.",
+      "representative_form": "",
+      "usage_note": "საწყისი მოვლენა განსაზღვრეთ.",
+      "status": "active",
+      "sense_id": "l165.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L166",
+      "term": "თანმიმდევრობა",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ელემენტების ან მოქმედებების განსაზღვრული რიგი",
+      "example": "დაიცავით ნაბიჯების თანმიმდევრობა.",
+      "representative_form": "",
+      "usage_note": "ერთდროულობას არ გულისხმობს.",
+      "status": "active",
+      "sense_id": "l166.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L167",
+      "term": "ზღვარი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "დასაშვები ან განსაზღვრული მნიშვნელობის საზღვარი",
+      "example": "ზედა ზღვარი ჩათვლილია.",
+      "representative_form": "",
+      "usage_note": "ჩათვლა პირდაპირ დააზუსტეთ.",
+      "status": "active",
+      "sense_id": "l167.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L168",
+      "term": "დიაპაზონი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "ორ საზღვარს შორის მნიშვნელობათა სიმრავლე",
+      "example": "დასაშვებია 5-დან 10-მდე მნიშვნელობები, ორივე საზღვრის ჩათვლით.",
+      "representative_form": "",
+      "usage_note": "საზღვრების ჩათვლა ცალკე მიუთითეთ.",
+      "status": "active",
+      "sense_id": "l168.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L169",
+      "term": "რაოდენობა",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "დათვლადი ერთეულების რიცხვი",
+      "example": "ფაილების რაოდენობაა 3.",
+      "representative_form": "",
+      "usage_note": "უწყვეტი სიდიდისთვის შესაბამისი სახელი გამოიყენეთ.",
+      "status": "active",
+      "sense_id": "l169.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L170",
+      "term": "ერთეული",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "გაზომვის შეთანხმებული საზომი",
+      "example": "სიგრძის ერთეულია მილიმეტრი.",
+      "representative_form": "",
+      "usage_note": "საგნის ერთეულის მნიშვნელობა კონტექსტით გამოყავით.",
+      "status": "active",
+      "sense_id": "l170.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L171",
+      "term": "რიცხვითი მნიშვნელობა",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "სიდიდის რიცხვით გამოხატული ნაწილი",
+      "example": "რიცხვით მნიშვნელობას ერთეული დაურთეთ.",
+      "representative_form": "",
+      "usage_note": "სიტყვის მნიშვნელობისგან განსხვავდება.",
+      "status": "active",
+      "sense_id": "l171.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L172",
+      "term": "სიგრძე",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "ობიექტის განსაზღვრული მიმართულებით განზომილება",
+      "example": "სიგრძეა 12 mm.",
+      "representative_form": "",
+      "usage_note": "გაზომვის მიმართულება საჭიროებისას მიუთითეთ.",
+      "status": "active",
+      "sense_id": "l172.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L173",
+      "term": "სიგანე",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "ობიექტის განივი განზომილება",
+      "example": "გაზომეთ ნიმუშის სიგანე.",
+      "representative_form": "",
+      "usage_note": "სიგრძეში არ აირიოს.",
+      "status": "active",
+      "sense_id": "l173.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L174",
+      "term": "სიმაღლე",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "ვერტიკალური მიმართულებით განზომილება",
+      "example": "სიმაღლე საყრდენიდან გაზომეთ.",
+      "representative_form": "",
+      "usage_note": "საწყისი დონე დაასახელეთ.",
+      "status": "active",
+      "sense_id": "l174.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L175",
+      "term": "სიღრმე",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "ზედაპირიდან შიგნით მიმართული განზომილება",
+      "example": "შეამოწმეთ ღრმულის სიღრმე.",
+      "representative_form": "",
+      "usage_note": "სიგრძის შემცვლელი არ არის.",
+      "status": "active",
+      "sense_id": "l175.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L176",
+      "term": "მანძილი",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "ორ განსაზღვრულ წერტილს შორის დაშორება",
+      "example": "გაზომეთ მანძილი A-სა და B-ს შორის.",
+      "representative_form": "",
+      "usage_note": "ორივე წერტილი უნდა იყოს ცნობილი.",
+      "status": "active",
+      "sense_id": "l176.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L177",
+      "term": "ტემპერატურა",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "სხეულის თერმული მდგომარეობის საზომი სიდიდე",
+      "example": "ტემპერატურაა 20 °C.",
+      "representative_form": "",
+      "usage_note": "ერთეული და გაზომვის ადგილი მიუთითეთ.",
+      "status": "active",
+      "sense_id": "l177.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L178",
+      "term": "წნევა",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "ზედაპირის ფართობის ერთეულზე მოქმედი ძალის სიდიდე",
+      "example": "წნევის მნიშვნელობა ჩაწერეთ.",
+      "representative_form": "",
+      "usage_note": "აბსოლუტური და ჭარბი წნევა საჭიროებისას გაარჩიეთ.",
+      "status": "active",
+      "sense_id": "l178.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L179",
+      "term": "სიჩქარე",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "დროის ერთეულში გადაცემული მონაცემის რაოდენობა",
+      "example": "გადაცემის სიჩქარეა 20 MB/s.",
+      "representative_form": "",
+      "usage_note": "შეინარჩუნეთ ზუსტი ერთეული: MB/s და Mb/s ერთსა და იმავეს არ აღნიშნავს. ფიზიკური მოძრაობისთვის იხილეთ L307.",
+      "status": "active",
+      "sense_id": "speed.data_rate",
+      "related_ids": [
+        "L307"
+      ],
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L180",
+      "term": "მოცულობა",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "ობიექტის მიერ დაკავებული სივრცის სიდიდე",
+      "example": "მოცულობა ლიტრებში მიუთითეთ.",
+      "representative_form": "",
+      "usage_note": "ფაილის ზომა სხვა კონტექსტია.",
+      "status": "active",
+      "sense_id": "l180.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L181",
+      "term": "სავალდებულო",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ისეთი, რომლის შესრულებაც მოითხოვება",
+      "example": "სახელის ველი სავალდებულოა.",
+      "representative_form": "",
+      "usage_note": "მოთხოვნას საფუძველი უნდა ჰქონდეს.",
+      "status": "active",
+      "sense_id": "l181.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L182",
+      "term": "არასავალდებულო",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ისეთი, რომლის შესრულებაც აუცილებელი არ არის",
+      "example": "კომენტარი არასავალდებულოა.",
+      "representative_form": "",
+      "usage_note": "აკრძალულს არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l182.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L183",
+      "term": "ნებადართული",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ისეთი, რომლის შესრულების უფლებაც არსებობს",
+      "example": "ჩამოტვირთვა ნებადართულია.",
+      "representative_form": "",
+      "usage_note": "ტექნიკურ შესაძლებლობას არ უდრის.",
+      "status": "active",
+      "sense_id": "l183.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L184",
+      "term": "აკრძალული",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ისეთი, რომლის შესრულებაც დაუშვებელია",
+      "example": "გამოქვეყნება აკრძალულია.",
+      "representative_form": "",
+      "usage_note": "ფარგლები განსაზღვრეთ.",
+      "status": "active",
+      "sense_id": "l184.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L185",
+      "term": "შესაძლებელი",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "ისეთი, რაც მოცემულ პირობებში შეიძლება განხორციელდეს",
+      "example": "აღდგენა შესაძლებელია.",
+      "representative_form": "",
+      "usage_note": "ალბათობა ცალკე გამოხატეთ.",
+      "status": "active",
+      "sense_id": "l185.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L186",
+      "term": "შეუძლებელი",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "ისეთი, რაც მოცემულ პირობებში ვერ განხორციელდება",
+      "example": "ამ ასლიდან აღდგენა შეუძლებელია.",
+      "representative_form": "",
+      "usage_note": "შეუმოწმებელი შეუძლებელს არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l186.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L187",
+      "term": "სავარაუდო",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "დაუდასტურებელი, მაგრამ შესაძლოდ მიჩნეული",
+      "example": "ეს სავარაუდო მიზეზია.",
+      "representative_form": "",
+      "usage_note": "დადასტურებულად არ წარმოადგინოთ.",
+      "status": "active",
+      "sense_id": "l187.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L188",
+      "term": "დადასტურებული",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "კონკრეტული მტკიცებულებით გამყარებული",
+      "example": "მიღება დადასტურებულია.",
+      "representative_form": "",
+      "usage_note": "დაასახელეთ დასტურის ფარგლები.",
+      "status": "active",
+      "sense_id": "l188.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L189",
+      "term": "დაუდასტურებელი",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "საკმარისი დასტურის არმქონე",
+      "example": "ინფორმაცია დაუდასტურებელია.",
+      "representative_form": "",
+      "usage_note": "აუცილებლად მცდარს არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l189.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L190",
+      "term": "უცნობი",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ისეთი, რომლის მნიშვნელობაც ცნობილი არ არის",
+      "example": "მიზეზი უცნობია.",
+      "representative_form": "",
+      "usage_note": "ნულით არ ჩაანაცვლოთ.",
+      "status": "active",
+      "sense_id": "l190.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L191",
+      "term": "ცნობილი",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "მითითებული მხარისთვის ცოდნის სახით ხელმისაწვდომი",
+      "example": "მიზეზი ცნობილია.",
+      "representative_form": "",
+      "usage_note": "საჭიროებისას წყარო მიუთითეთ.",
+      "status": "active",
+      "sense_id": "l191.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L192",
+      "term": "ზუსტი",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "მითითებული სიზუსტით ან უშეცდომოდ განსაზღვრული",
+      "example": "შეინარჩუნეთ ზუსტი ნომერი.",
+      "representative_form": "",
+      "usage_note": "გაზომვისთვის დარგის განმარტება გამოიყენეთ.",
+      "status": "active",
+      "sense_id": "l192.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L193",
+      "term": "დაახლოებითი",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "მიზნობრივ მნიშვნელობასთან ახლოს შეფასებული",
+      "example": "დრო დაახლოებითი შეფასებაა.",
+      "representative_form": "",
+      "usage_note": "გარანტიად არ იქცეს.",
+      "status": "active",
+      "sense_id": "l193.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L194",
+      "term": "სწორი",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "კრიტერიუმთან ან ფაქტთან შესაბამისი",
+      "example": "ფორმატი სწორია.",
+      "representative_form": "",
+      "usage_note": "კრიტერიუმი უნდა იყოს ცნობილი.",
+      "status": "active",
+      "sense_id": "l194.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L195",
+      "term": "არასწორი",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "კრიტერიუმთან ან ფაქტთან შეუსაბამო",
+      "example": "თარიღის ფორმატი არასწორია.",
+      "representative_form": "",
+      "usage_note": "გამოსწორების გზა აჩვენეთ.",
+      "status": "active",
+      "sense_id": "l195.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L196",
+      "term": "სრული",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მითითებულ ფარგლებში ყველა საჭირო ნაწილის შემცველი",
+      "example": "სია ამ საქაღალდისთვის სრულია.",
+      "representative_form": "",
+      "usage_note": "ფარგლები აუცილებელია.",
+      "status": "active",
+      "sense_id": "l196.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L197",
+      "term": "ნაწილობრივი",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მთელის მხოლოდ ნაწილის შესაბამისი",
+      "example": "განახლება ნაწილობრივ შესრულდა.",
+      "representative_form": "",
+      "usage_note": "დარჩენილი ნაწილი დაასახელეთ.",
+      "status": "active",
+      "sense_id": "l197.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L198",
+      "term": "ცარიელი",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "შინაარსის ან ელემენტების არმქონე",
+      "example": "საქაღალდე ცარიელია.",
+      "representative_form": "",
+      "usage_note": "მიუწვდომელს არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l198.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L199",
+      "term": "შევსებული",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მნიშვნელობის ან შინაარსის შემცველი",
+      "example": "ყველა ველი შევსებულია.",
+      "representative_form": "",
+      "usage_note": "სისწორე ცალკე მოწმდება.",
+      "status": "active",
+      "sense_id": "l199.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L200",
+      "term": "ღია",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "გახსნილ მდგომარეობაში მყოფი",
+      "example": "ფანჯარა ღიაა.",
+      "representative_form": "",
+      "usage_note": "საჯარო წვდომისგან გაარჩიეთ.",
+      "status": "active",
+      "sense_id": "l200.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L201",
+      "term": "დახურული",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "გახსნილი მდგომარეობიდან გამოსული",
+      "example": "ფანჯარა დახურულია.",
+      "representative_form": "",
+      "usage_note": "შენახულს არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l201.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L202",
+      "term": "ჩართული",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მოქმედებისთვის გააქტიურებული",
+      "example": "შეტყობინებები ჩართულია.",
+      "representative_form": "",
+      "usage_note": "კავშირი ცალკე მოწმდება.",
+      "status": "active",
+      "sense_id": "l202.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L203",
+      "term": "გამორთული",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "უმოქმედო მდგომარეობაში გადაყვანილი",
+      "example": "შეტყობინებები გამორთულია.",
+      "representative_form": "",
+      "usage_note": "უსაფრთხო იზოლაციას არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l203.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L204",
+      "term": "აქტიური",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "განსაზღვრული მოქმედი სტატუსის მქონე",
+      "example": "სესია აქტიურია.",
+      "representative_form": "",
+      "usage_note": "სტატუსის კრიტერიუმი განსაზღვრეთ.",
+      "status": "active",
+      "sense_id": "l204.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L205",
+      "term": "არააქტიური",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "აქტიური სტატუსის არმქონე",
+      "example": "ანგარიში არააქტიურია.",
+      "representative_form": "",
+      "usage_note": "წაშლილს არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l205.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L206",
+      "term": "ხელმისაწვდომი",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "გამოყენებისთვის მიღწევადი",
+      "example": "ინსტრუქცია ხელმისაწვდომია.",
+      "representative_form": "",
+      "usage_note": "ვისთვის არის ხელმისაწვდომი?",
+      "status": "active",
+      "sense_id": "l206.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L207",
+      "term": "მიუწვდომელი",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ამ პირობებში გამოყენებისთვის მიუღწეველი",
+      "example": "სერვისი მიუწვდომელია.",
+      "representative_form": "",
+      "usage_note": "არარსებობას არ ადასტურებს.",
+      "status": "active",
+      "sense_id": "l207.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L208",
+      "term": "დაგეგმილი",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "სამომავლოდ განსაზღვრული",
+      "example": "შემოწმება დაგეგმილია.",
+      "representative_form": "",
+      "usage_note": "შესრულებას არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l208.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L209",
+      "term": "დაწყებული",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ისეთი, რომლის პირველი მოქმედებაც შესრულდა",
+      "example": "დამუშავება დაწყებულია.",
+      "representative_form": "",
+      "usage_note": "დასრულებას არ ადასტურებს.",
+      "status": "active",
+      "sense_id": "l209.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L210",
+      "term": "მიმდინარე",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ამჟამად პროცესში მყოფი",
+      "example": "მიმდინარე სამუშაო შეინახეთ.",
+      "representative_form": "",
+      "usage_note": "აქტუალურობის სხვა აზრი გაარჩიეთ.",
+      "status": "active",
+      "sense_id": "l210.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L211",
+      "term": "შეჩერებული",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "დროებით აღარ მიმდინარე",
+      "example": "ატვირთვა შეჩერებულია.",
+      "representative_form": "",
+      "usage_note": "გაგრძელების პირობა მიუთითეთ.",
+      "status": "active",
+      "sense_id": "l211.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L212",
+      "term": "დასრულებული",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "განსაზღვრულ საბოლოო მდგომარეობამდე მისული",
+      "example": "შემოწმება დასრულებულია.",
+      "representative_form": "",
+      "usage_note": "შედეგი შეიძლება უარყოფითიც იყოს.",
+      "status": "active",
+      "sense_id": "l212.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L213",
+      "term": "წარუმატებელი",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ისეთი, რომლის შედეგიც დადგენილ კრიტერიუმს ვერ აკმაყოფილებს",
+      "example": "გაგზავნის მცდელობა წარუმატებელია.",
+      "representative_form": "",
+      "usage_note": "დარჩენილი მდგომარეობა დაასახელეთ.",
+      "status": "active",
+      "sense_id": "l213.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L214",
+      "term": "წარმატებული",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "წინასწარ განსაზღვრული კრიტერიუმის დამაკმაყოფილებელი",
+      "example": "საცდელი აღდგენა წარმატებულია.",
+      "representative_form": "",
+      "usage_note": "ფარგლები და მტკიცებულება საჭიროა.",
+      "status": "active",
+      "sense_id": "l214.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L215",
+      "term": "შემოწმებული",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ისეთი, რომელსაც განსაზღვრული შემოწმება ჩაუტარდა",
+      "example": "ფაილის ფორმატი შემოწმებულია.",
+      "representative_form": "",
+      "usage_note": "შემოწმება შეიძლება შეცდომის აღმოჩენით დასრულდეს; დადებითი შედეგი და შემოწმების ფარგლები ცალკე დაასახელეთ.",
+      "status": "active",
+      "sense_id": "l215.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L216",
+      "term": "შეუმოწმებელი",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "შესაბამისი შემოწმების გარეშე",
+      "example": "ეს შეუმოწმებელი ვერსიაა.",
+      "representative_form": "",
+      "usage_note": "მცდარს ავტომატურად არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l216.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L217",
+      "term": "ახალი",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ახლად შექმნილი ან ადრე არსებულის მომდევნო",
+      "example": "ახალი ვერსია მზადაა.",
+      "representative_form": "",
+      "usage_note": "მოქმედ ვერსიას ყოველთვის არ უდრის.",
+      "status": "active",
+      "sense_id": "l217.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L218",
+      "term": "წინა",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მიმდევრობაში ადრე მდებარე",
+      "example": "გახსენით წინა ვერსია.",
+      "representative_form": "",
+      "usage_note": "საჭიროებისას ნომერი მიუთითეთ.",
+      "status": "active",
+      "sense_id": "l218.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L219",
+      "term": "შემდეგი",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მიმდევრობაში უშუალოდ მომდევნო",
+      "example": "შეასრულეთ შემდეგი ნაბიჯი.",
+      "representative_form": "",
+      "usage_note": "გამოტოვება არ დამალოთ.",
+      "status": "active",
+      "sense_id": "l219.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L220",
+      "term": "ბოლო",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მითითებული მიმდევრობის დასასრულში მყოფი",
+      "example": "ბოლო ნაბიჯზე შედეგი შეინახეთ.",
+      "representative_form": "",
+      "usage_note": "უახლესი და საბოლოო გაარჩიეთ.",
+      "status": "active",
+      "sense_id": "l220.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L221",
+      "term": "პირველი",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მითითებული მიმდევრობის დასაწყისში მყოფი",
+      "example": "პირველი სვეტი ნომერს აჩვენებს.",
+      "representative_form": "",
+      "usage_note": "ათვლის საწყისი ნათელი იყოს.",
+      "status": "active",
+      "sense_id": "l221.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L222",
+      "term": "იგივე",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ადრე ნახსენები კონკრეტული ობიექტი",
+      "example": "გამოიყენეთ იგივე ფაილი.",
+      "representative_form": "",
+      "usage_note": "მსგავსს არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l222.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L223",
+      "term": "ერთნაირი",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "მითითებული თვისებით თანხვედრილი",
+      "example": "ფაილებს ერთნაირი სახელები აქვთ.",
+      "representative_form": "",
+      "usage_note": "სრული იდენტურობა არ იგულისხმება.",
+      "status": "active",
+      "sense_id": "l223.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L224",
+      "term": "განსხვავებული",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მითითებული თვისებით არათანხვედრილი",
+      "example": "ვერსიის ნომრები განსხვავებულია.",
+      "representative_form": "",
+      "usage_note": "თვისება დაასახელეთ.",
+      "status": "active",
+      "sense_id": "l224.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L225",
+      "term": "მსგავსი",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "გარკვეული თვისებებით ახლოს მდგომი",
+      "example": "მაგალითები სტრუქტურით მსგავსია.",
+      "representative_form": "",
+      "usage_note": "ტოლფასს არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l225.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L226",
+      "term": "ტოლფასი",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "მითითებული ფუნქციით ეკვივალენტური",
+      "example": "მეთოდები ამ ამოცანისთვის ტოლფასია.",
+      "representative_form": "",
+      "usage_note": "ეკვივალენტობის საფუძველი საჭიროა.",
+      "status": "active",
+      "sense_id": "l226.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L227",
+      "term": "მთავარი",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ამ კონტექსტში პირველადი მნიშვნელობის მქონე",
+      "example": "მთავარი აზრი დასაწყისში დაწერეთ.",
+      "representative_form": "",
+      "usage_note": "აუცილებლად ერთადერთი არ არის.",
+      "status": "active",
+      "sense_id": "l227.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L228",
+      "term": "დამატებითი",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "არსებულის შემავსებელი",
+      "example": "დამატებითი ინფორმაცია დანართშია.",
+      "representative_form": "",
+      "usage_note": "არასავალდებულოს არ უდრის.",
+      "status": "active",
+      "sense_id": "l228.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L229",
+      "term": "დროებითი",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "შეზღუდული პერიოდით მოქმედი",
+      "example": "წვდომა დროებითია.",
+      "representative_form": "",
+      "usage_note": "დასრულების პირობა მიუთითეთ.",
+      "status": "active",
+      "sense_id": "l229.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L230",
+      "term": "მუდმივი",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "შეთანხმებულ ფარგლებში ვადის გარეშე შენარჩუნებული",
+      "example": "ეს მუდმივი ბმულია.",
+      "representative_form": "",
+      "usage_note": "უპირობო გარანტიას მოერიდეთ.",
+      "status": "active",
+      "sense_id": "l230.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L231",
+      "term": "ადგილობრივი",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "კონკრეტულ მოწყობილობაში ან გარემოში არსებული",
+      "example": "შეიქმნა ადგილობრივი ასლი.",
+      "representative_form": "",
+      "usage_note": "სერვერზე არსებობას არ ადასტურებს.",
+      "status": "active",
+      "sense_id": "l231.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L232",
+      "term": "გარე",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "სისტემის საზღვრის გარეთ მყოფი",
+      "example": "ბმული გარე გვერდზე გადადის.",
+      "representative_form": "",
+      "usage_note": "საზღვარი ნათელი იყოს.",
+      "status": "active",
+      "sense_id": "l232.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L233",
+      "term": "შიდა",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "სისტემის საზღვრის ფარგლებში მყოფი",
+      "example": "ეს შიდა შენიშვნაა.",
+      "representative_form": "",
+      "usage_note": "წვდომის ფარგლები გადაამოწმეთ.",
+      "status": "active",
+      "sense_id": "l233.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L234",
+      "term": "მექანიკური",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "მექანიზმით შესრულებული ან მასთან დაკავშირებული",
+      "example": "კავშირი მექანიკურია.",
+      "representative_form": "",
+      "usage_note": "ხელით შესრულებულს არ უდრის.",
+      "status": "active",
+      "sense_id": "l234.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L235",
+      "term": "ავტომატური",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ყოველ ჯერზე ადამიანის უშუალო მოქმედების გარეშე შესრულებული",
+      "example": "შენახვა ავტომატურია.",
+      "representative_form": "",
+      "usage_note": "გაშვების პირობა განსაზღვრეთ.",
+      "status": "active",
+      "sense_id": "l235.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L236",
+      "term": "ხელით შესასრულებელი",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ადამიანის უშუალო მოქმედების მომთხოვნი",
+      "example": "ეს ხელით შესასრულებელი ნაბიჯია.",
+      "representative_form": "",
+      "usage_note": "ინსტრუმენტს არ გამორიცხავს.",
+      "status": "active",
+      "sense_id": "l236.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L237",
+      "term": "დაზიანებული",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "მთლიანობის ან ფუნქციის დარღვევის მქონე",
+      "example": "ნიმუში დაზიანებულია.",
+      "representative_form": "",
+      "usage_note": "ტიპი საჭიროებისას დაასახელეთ.",
+      "status": "active",
+      "sense_id": "l237.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L238",
+      "term": "გამართული",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "განსაზღვრული ფუნქციის კრიტერიუმით სწორად მოქმედი",
+      "example": "საცდელ რეჟიმში მოწყობილობა გამართულია: სამივე დადგენილი ფუნქცია შემოწმების კრიტერიუმებს აკმაყოფილებს.",
+      "representative_form": "",
+      "usage_note": "ყველა პირობაზე არ განაზოგადოთ.",
+      "status": "active",
+      "sense_id": "l238.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L239",
+      "term": "ვადაგასული",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მოქმედების ვადას გადაცილებული",
+      "example": "ბმული ვადაგასულია.",
+      "representative_form": "",
+      "usage_note": "აღდგენის გზა რეალური იყოს.",
+      "status": "active",
+      "sense_id": "l239.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L240",
+      "term": "მოქმედი",
+      "category": "თვისება და მდგომარეობა",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ამჟამად ძალაში ან გამოყენებაში არსებული",
+      "example": "გამოიყენეთ მოქმედი ვერსია.",
+      "representative_form": "",
+      "usage_note": "უახლესი ყოველთვის მოქმედი არ არის.",
+      "status": "active",
+      "sense_id": "l240.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L241",
+      "term": "თუ",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "პირობითი დამოკიდებულების აღმნიშვნელი",
+      "example": "თუ ფაილი არსებობს, გახსენით.",
+      "representative_form": "",
+      "usage_note": "აზრი არ შეცვალოთ.",
+      "status": "active",
+      "sense_id": "l241.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L242",
+      "term": "როცა",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მოვლენის დადგომის დროის აღმნიშვნელი",
+      "example": "როცა შემოწმება დასრულდება, შედეგი შეინახეთ.",
+      "representative_form": "",
+      "usage_note": "დაუმტკიცებელ დადგომას ნუ დაჰპირდებით.",
+      "status": "active",
+      "sense_id": "l242.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L243",
+      "term": "სანამ",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "მეორე მოქმედების მიმდინარეობისას არსებული დროითი მონაკვეთის აღმნიშვნელი",
+      "example": "სანამ ფაილი იტვირთება, გვერდი ღია დატოვეთ.",
+      "representative_form": "",
+      "usage_note": "აქ: „სანამ იტვირთება“. სხვა კონსტრუქციებისთვის იხილეთ L308 და L309. სრული წინადადება შეამოწმეთ.",
+      "status": "active",
+      "sense_id": "while.duration",
+      "related_ids": [
+        "L308",
+        "L309"
+      ],
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L244",
+      "term": "შემდეგ",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ადრე დასახელებული მოვლენის მომდევნო დრო",
+      "example": "შეინახეთ. შემდეგ დახურეთ ფანჯარა.",
+      "representative_form": "",
+      "usage_note": "დაუყოვნებლივს აუცილებლობით არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l244.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L245",
+      "term": "მანამდე",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "მითითებულ მოვლენაზე ადრე",
+      "example": "შემდეგ წაშალეთ ფაილი; მანამდე მისი ასლი შეინახეთ.",
+      "representative_form": "",
+      "usage_note": "ათვლის მოვლენა ნათელი იყოს.",
+      "status": "active",
+      "sense_id": "l245.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L246",
+      "term": "ერთდროულად",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "ერთსა და იმავე დროს",
+      "example": "ორი პროცესი ერთდროულად მიმდინარეობს.",
+      "representative_form": "",
+      "usage_note": "რიგით შესრულებად არ გადააკეთოთ.",
+      "status": "active",
+      "sense_id": "l246.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L247",
+      "term": "ცალ-ცალკე",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "თითოეული ობიექტისთვის დამოუკიდებლად",
+      "example": "ფაილები ცალ-ცალკე შეამოწმეთ.",
+      "representative_form": "",
+      "usage_note": "დროში განცალკევებას ყოველთვის არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l247.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L248",
+      "term": "ერთად",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ერთ ჯგუფად ან ერთობლივად",
+      "example": "ორი სია ერთად აჩვენეთ.",
+      "representative_form": "",
+      "usage_note": "ერთდროულობა ცალკე დააზუსტეთ.",
+      "status": "active",
+      "sense_id": "l248.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L249",
+      "term": "ყოველთვის",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "მითითებულ ფარგლებში ყველა შემთხვევაში",
+      "example": "ამ ფორმაში ნომერი ყოველთვის ივსება.",
+      "representative_form": "",
+      "usage_note": "სრული ფარგლები შეამოწმეთ.",
+      "status": "active",
+      "sense_id": "l249.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L250",
+      "term": "არასოდეს",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "მითითებულ ფარგლებში არცერთ შემთხვევაში",
+      "example": "ეს ველი არასოდეს ინახავს პაროლს.",
+      "representative_form": "",
+      "usage_note": "აბსოლუტურ მტკიცებას დასტური სჭირდება.",
+      "status": "active",
+      "sense_id": "l250.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L251",
+      "term": "ზოგჯერ",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "ზოგ შემთხვევაში, სიხშირის დაუზუსტებლად",
+      "example": "პასუხი ზოგჯერ იგვიანებს.",
+      "representative_form": "",
+      "usage_note": "განრიგისთვის არასაკმარისია.",
+      "status": "active",
+      "sense_id": "l251.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L252",
+      "term": "კვლავ",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "არსებული მდგომარეობის გაგრძელების აღმნიშვნელი",
+      "example": "კავშირი კვლავ მიუწვდომელია.",
+      "representative_form": "",
+      "usage_note": "აქ: მდგომარეობა ჯერაც გრძელდება. განმეორებული მოქმედება ცალკე მნიშვნელობაა; იხილეთ L310.",
+      "status": "active",
+      "sense_id": "again.still",
+      "related_ids": [
+        "L310"
+      ],
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L253",
+      "term": "მხოლოდ",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "გამომრიცხველი შეზღუდვის აღმნიშვნელი",
+      "example": "მხოლოდ ავტორი ცვლის ტექსტს.",
+      "representative_form": "",
+      "usage_note": "შეზღუდვის სამიზნე გადაამოწმეთ.",
+      "status": "active",
+      "sense_id": "l253.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L254",
+      "term": "ყველა",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ჯგუფის სრული მოცვა",
+      "example": "ყველა ჩანაწერი შემოწმებულია.",
+      "representative_form": "",
+      "usage_note": "ჯგუფის ფარგლები დაასახელეთ.",
+      "status": "active",
+      "sense_id": "l254.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L255",
+      "term": "თითოეული",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ჯგუფის ყოველი წევრი ცალკე აღებული",
+      "example": "თითოეულ ფაილს სახელი აქვს.",
+      "representative_form": "",
+      "usage_note": "საერთო მოქმედებაში არ აურიოთ.",
+      "status": "active",
+      "sense_id": "l255.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L256",
+      "term": "ორივე",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "უკვე განსაზღვრული წყვილის სრული მოცვა",
+      "example": "ორივე ფაილი შეინახეთ.",
+      "representative_form": "",
+      "usage_note": "წყვილი ცნობილი უნდა იყოს.",
+      "status": "active",
+      "sense_id": "l256.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L257",
+      "term": "არცერთი",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "განსაზღვრული ჯგუფიდან ნული წევრი",
+      "example": "არცერთი ჩანაწერი არ წაიშალა.",
+      "representative_form": "",
+      "usage_note": "ქართული უარყოფა არ ამოიღოთ.",
+      "status": "active",
+      "sense_id": "l257.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L258",
+      "term": "ერთი მაინც",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მინიმუმ ერთი წევრი",
+      "example": "ერთი ფაილი მაინც აირჩიეთ.",
+      "representative_form": "",
+      "usage_note": "ზუსტად ერთს არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l258.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L259",
+      "term": "მხოლოდ ერთი",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ერთი წევრი სხვების გამორიცხვით",
+      "example": "აირჩიეთ მხოლოდ ერთი ვარიანტი.",
+      "representative_form": "",
+      "usage_note": "მრავალ არჩევანს გამორიცხავს.",
+      "status": "active",
+      "sense_id": "l259.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L260",
+      "term": "რამდენიმე",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "ზუსტი რაოდენობის გარეშე ერთზე მეტი",
+      "example": "რამდენიმე მაგალითი მოცემულია.",
+      "representative_form": "",
+      "usage_note": "კრიტიკული რაოდენობა დააზუსტეთ.",
+      "status": "active",
+      "sense_id": "l260.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L261",
+      "term": "და",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ორი კომპონენტის გაერთიანება",
+      "example": "სახელი და თარიღი შეავსეთ.",
+      "representative_form": "",
+      "usage_note": "დროითი რიგი ცალკე განსაზღვრეთ.",
+      "status": "active",
+      "sense_id": "l261.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L262",
+      "term": "ან",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ალტერნატივების აღმნიშვნელი",
+      "example": "აირჩიეთ PDF ან TXT.",
+      "representative_form": "",
+      "usage_note": "ერთი თუ ორივე, დააზუსტეთ.",
+      "status": "active",
+      "sense_id": "l262.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L263",
+      "term": "მაგრამ",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "შეზღუდვის ან განსხვავების აღმნიშვნელი",
+      "example": "ფაილი მიღებულია, მაგრამ არ შემოწმებულა.",
+      "representative_form": "",
+      "usage_note": "მეორე ნაწილი არ გამოტოვოთ.",
+      "status": "active",
+      "sense_id": "l263.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L264",
+      "term": "რადგან",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "მიზეზის დასახელება",
+      "example": "გაგზავნა შეწყდა, რადგან კავშირი დაიკარგა.",
+      "representative_form": "",
+      "usage_note": "მიზეზი დადასტურებული იყოს.",
+      "status": "active",
+      "sense_id": "l264.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L265",
+      "term": "ამიტომ",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "საფუძვლიდან შედეგზე გადასვლა",
+      "example": "ვადა გავიდა. ამიტომ ბმული აღარ მოქმედებს.",
+      "representative_form": "",
+      "usage_note": "კავშირი შეამოწმეთ.",
+      "status": "active",
+      "sense_id": "l265.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L266",
+      "term": "მაგალითად",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "საილუსტრაციო შემთხვევის შემოტანა",
+      "example": "აირჩიეთ მოკლე სახელი, მაგალითად „ასლი“.",
+      "representative_form": "",
+      "usage_note": "ამომწურავი სია არ იგულისხმება.",
+      "status": "active",
+      "sense_id": "l266.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L267",
+      "term": "მინიმუმ",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ქვედა ზღვრის ჩათვლით",
+      "example": "აირჩიეთ მინიმუმ ორი ფაილი.",
+      "representative_form": "",
+      "usage_note": "ზღვარი შედის.",
+      "status": "active",
+      "sense_id": "l267.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L268",
+      "term": "მაქსიმუმ",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ზედა ზღვრის ჩათვლით",
+      "example": "აირჩიეთ მაქსიმუმ სამი ფაილი.",
+      "representative_form": "",
+      "usage_note": "ზღვარი შედის.",
+      "status": "active",
+      "sense_id": "l268.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L269",
+      "term": "მეტი",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "მითითებულ სიდიდეზე ზემოთ",
+      "example": "რაოდენობა ხუთზე მეტია.",
+      "representative_form": "",
+      "usage_note": "ტოლობას გამორიცხავს.",
+      "status": "active",
+      "sense_id": "l269.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L270",
+      "term": "ნაკლები",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "მითითებულ სიდიდეზე ქვემოთ",
+      "example": "რაოდენობა ხუთზე ნაკლებია.",
+      "representative_form": "",
+      "usage_note": "ტოლობას გამორიცხავს.",
+      "status": "active",
+      "sense_id": "l270.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L271",
+      "term": "ტოლი",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "შედარების სიდიდის თანაბარი",
+      "example": "ორი მნიშვნელობა ტოლია.",
+      "representative_form": "",
+      "usage_note": "საზომი სიზუსტე საჭიროებისას მიუთითეთ.",
+      "status": "active",
+      "sense_id": "l271.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L272",
+      "term": "ჩათვლით",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "ზღვრის ან წევრის მოცვა",
+      "example": "შეასრულეთ ნაბიჯები 2-დან 4-ის ჩათვლით.",
+      "representative_form": "",
+      "usage_note": "საწყისი საზღვარიც ნათელი იყოს.",
+      "status": "active",
+      "sense_id": "l272.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L273",
+      "term": "ჩაუთვლელად",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "ზღვრის ან წევრის გამორიცხვა",
+      "example": "ჯამი გადასახადის ჩაუთვლელადაა მოცემული.",
+      "representative_form": "",
+      "usage_note": "გამორიცხული ნაწილი დაასახელეთ.",
+      "status": "active",
+      "sense_id": "l273.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L274",
+      "term": "მარცხნივ",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მითითებული ხედვის მარცხენა მიმართულება",
+      "example": "წინიდან შეხედეთ; მონიშვნა მარცხნივაა.",
+      "representative_form": "",
+      "usage_note": "ხედვის წერტილი მნიშვნელოვანია.",
+      "status": "active",
+      "sense_id": "l274.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L275",
+      "term": "მარჯვნივ",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მითითებული ხედვის მარჯვენა მიმართულება",
+      "example": "წინიდან შეხედეთ; ნომერი მარჯვნივაა.",
+      "representative_form": "",
+      "usage_note": "მხოლოდ მდებარეობა ყოველთვის საკმარისი არ არის.",
+      "status": "active",
+      "sense_id": "l275.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L276",
+      "term": "ზემოთ",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "განსაზღვრულ საყრდენზე უფრო მაღლა",
+      "example": "სათაური ცხრილის ზემოთაა.",
+      "representative_form": "",
+      "usage_note": "კონტროლის სახელიც მიუთითეთ.",
+      "status": "active",
+      "sense_id": "l276.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L277",
+      "term": "ქვემოთ",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "განსაზღვრულ საყრდენზე უფრო დაბლა",
+      "example": "შენიშვნა ცხრილის ქვემოთაა.",
+      "representative_form": "",
+      "usage_note": "ცვალებად ხედში მდებარეობას მარტო ნუ დაეყრდნობით.",
+      "status": "active",
+      "sense_id": "l277.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L278",
+      "term": "შიგნით",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "საზღვრის ფარგლებში",
+      "example": "ნომერი ჩარჩოს შიგნით ჩაწერეთ.",
+      "representative_form": "",
+      "usage_note": "საზღვარი ცნობილი იყოს.",
+      "status": "active",
+      "sense_id": "l278.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L279",
+      "term": "გარეთ",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "საზღვრის მიღმა",
+      "example": "ნიშანი ჩარჩოს გარეთაა.",
+      "representative_form": "",
+      "usage_note": "მდებარეობა მკაფიოდ განსაზღვრეთ.",
+      "status": "active",
+      "sense_id": "l279.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L280",
+      "term": "შორის",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "განსაზღვრული ობიექტების მიმართ შუალედში",
+      "example": "გაზომეთ მანძილი ნიშნებს შორის.",
+      "representative_form": "",
+      "usage_note": "რიცხვითი საზღვრების ჩათვლა დააზუსტეთ.",
+      "status": "active",
+      "sense_id": "l280.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L281",
+      "term": "შეცდომა",
+      "category": "ციფრული ტექსტის დამატებითი ცნებები",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მოთხოვნილ ან სწორ შედეგთან შეუსაბამობა",
+      "example": "სისტემამ ფორმატის შეცდომა აჩვენა.",
+      "representative_form": "",
+      "usage_note": "შეტყობინება მიზეზს ყოველთვის არ ადგენს.",
+      "status": "active",
+      "sense_id": "l281.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L282",
+      "term": "ხარვეზი",
+      "category": "ციფრული ტექსტის დამატებითი ცნებები",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "ობიექტში აღმოჩენილი ნაკლოვანება",
+      "example": "ტექსტში ორაზროვნების ხარვეზია.",
+      "representative_form": "",
+      "usage_note": "ყოველი გამოვლენა ახალი მიზეზი არ არის.",
+      "status": "active",
+      "sense_id": "l282.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L283",
+      "term": "შეფერხება",
+      "category": "ციფრული ტექსტის დამატებითი ცნებები",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "პროცესის დროებითი დაბრკოლება",
+      "example": "სერვისში შეფერხებაა.",
+      "representative_form": "",
+      "usage_note": "აღდგენის დრო დაუდასტურებლად არ დაწეროთ.",
+      "status": "active",
+      "sense_id": "l283.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L284",
+      "term": "მცდელობა",
+      "category": "ციფრული ტექსტის დამატებითი ცნებები",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "შედეგის მისაღებად დაწყებული მოქმედება",
+      "example": "გაგზავნის მცდელობა დასრულდა.",
+      "representative_form": "",
+      "usage_note": "წარმატებას არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l284.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L285",
+      "term": "მონაცემი",
+      "category": "ციფრული ტექსტის დამატებითი ცნებები",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "შენახვადი ან დასამუშავებელი მნიშვნელობა",
+      "example": "მონაცემი წყაროს შეადარეთ.",
+      "representative_form": "",
+      "usage_note": "სისწორეს თავისთავად არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l285.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L286",
+      "term": "მონაცემთა ნაკრები",
+      "category": "ციფრული ტექსტის დამატებითი ცნებები",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "ერთად განსაზღვრული მონაცემების ერთობლიობა",
+      "example": "ნაკრები საცდელ ჩანაწერებს შეიცავს.",
+      "representative_form": "",
+      "usage_note": "ფარგლები და ვერსია მიუთითეთ.",
+      "status": "active",
+      "sense_id": "l286.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L287",
+      "term": "ჟურნალი",
+      "category": "ციფრული ტექსტის დამატებითი ცნებები",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "მოვლენების თანმიმდევრული ჩანაწერების საცავი",
+      "example": "ჟურნალში მიღების დრო ჩანს.",
+      "representative_form": "",
+      "usage_note": "მოვლენები შეიძლება გამოტოვებული იყოს.",
+      "status": "active",
+      "sense_id": "l287.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L288",
+      "term": "სესია",
+      "category": "ციფრული ტექსტის დამატებითი ცნებები",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "სისტემასთან ურთიერთქმედების განსაზღვრული პერიოდი",
+      "example": "სესია დასრულდა.",
+      "representative_form": "",
+      "usage_note": "ანგარიშის წაშლას არ ნიშნავს.",
+      "status": "active",
+      "sense_id": "l288.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L289",
+      "term": "ქეში",
+      "category": "ციფრული ტექსტის დამატებითი ცნებები",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "დროებით შენახული მონაცემების საცავი ხელახალი გამოყენებისთვის",
+      "example": "ქეშში ძველი პასუხია.",
+      "representative_form": "",
+      "usage_note": "ძირითად საცავთან არ გააიგივოთ.",
+      "status": "active",
+      "sense_id": "l289.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L290",
+      "term": "სარეზერვო ასლი",
+      "category": "ციფრული ტექსტის დამატებითი ცნებები",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "აღდგენისთვის განკუთვნილი ასლი",
+      "example": "ასლიდან აღდგენა შემოწმდა.",
+      "representative_form": "",
+      "usage_note": "ასლის არსებობა აღდგენადობას მარტო არ ადასტურებს.",
+      "status": "active",
+      "sense_id": "l290.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L291",
+      "term": "საცდელი გარემო",
+      "category": "ციფრული ტექსტის დამატებითი ცნებები",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "შემოწმებისთვის გამოყოფილი გარემო",
+      "example": "მაგალითი საცდელ გარემოს იყენებს.",
+      "representative_form": "",
+      "usage_note": "რეალური მომხმარებლის მიღებას არ ადასტურებს.",
+      "status": "active",
+      "sense_id": "l291.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L292",
+      "term": "რეალური სამუშაო გარემო",
+      "category": "ციფრული ტექსტის დამატებითი ცნებები",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "გარემო, რომელშიც რეალური საქმიანობა მიმდინარეობს",
+      "example": "რეალური სამუშაო გარემო არ შემოწმებულა.",
+      "representative_form": "",
+      "usage_note": "ადგილობრივი ტესტისგან გაარჩიეთ.",
+      "status": "active",
+      "sense_id": "l292.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L293",
+      "term": "ენის მოდელი",
+      "category": "ციფრული ტექსტის დამატებითი ცნებები",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "ტექსტის დამუშავებისა და გენერირების მოდელი",
+      "example": "ენის მოდელმა ტექსტის პროექტი შექმნა.",
+      "representative_form": "",
+      "usage_note": "შექმნილი ტექსტი მტკიცებულება არ არის.",
+      "status": "active",
+      "sense_id": "l293.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L294",
+      "term": "პრომპტი",
+      "category": "ციფრული ტექსტის დამატებითი ცნებები",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "მოდელისთვის მიწოდებული ინსტრუქცია ან კონტექსტი",
+      "example": "პრომპტში პროფილი მიუთითეთ.",
+      "representative_form": "",
+      "usage_note": "შესაბამისობის გარანტია არ არის.",
+      "status": "active",
+      "sense_id": "l294.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L295",
+      "term": "პასუხი",
+      "category": "ციფრული ტექსტის დამატებითი ცნებები",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "კითხვაზე ან მოთხოვნაზე დაბრუნებული ინფორმაცია",
+      "example": "პასუხი მთავარი შედეგით იწყება.",
+      "representative_form": "",
+      "usage_note": "მიღება სისწორეს არ ადასტურებს.",
+      "status": "active",
+      "sense_id": "l295.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L296",
+      "term": "შეჯამება",
+      "category": "ციფრული ტექსტის დამატებითი ცნებები",
+      "profiles": [
+        "T",
+        "A"
+      ],
+      "meaning": "ძირითადი აზრების შეკუმშული გადმოცემა",
+      "example": "შეჯამება გამონაკლისსაც ინარჩუნებს.",
+      "representative_form": "",
+      "usage_note": "შეზღუდვა არ ამოიღოთ.",
+      "status": "active",
+      "sense_id": "l296.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L297",
+      "term": "ხელმისაწვდომი სახელი",
+      "category": "ციფრული ტექსტის დამატებითი ცნებები",
+      "profiles": [
+        "A",
+        "U"
+      ],
+      "meaning": "კონტროლის პროგრამულად მიწოდებული დასახელება",
+      "example": "ხელმისაწვდომი სახელი ხილულ ტექსტს შეიცავს.",
+      "representative_form": "",
+      "usage_note": "ხილული წარწერისგან ტექნიკურად განსხვავდება.",
+      "status": "active",
+      "sense_id": "l297.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L298",
+      "term": "ალტერნატიული ტექსტი",
+      "category": "ციფრული ტექსტის დამატებითი ცნებები",
+      "profiles": [
+        "A",
+        "U"
+      ],
+      "meaning": "არატექსტური შინაარსის ფუნქციის ან ინფორმაციის ტექსტური წარმოდგენა",
+      "example": "სურათს შესაბამისი ალტერნატიული ტექსტი აქვს.",
+      "representative_form": "",
+      "usage_note": "ფაილის სახელის გამეორება ხშირად არასაკმარისია.",
+      "status": "active",
+      "sense_id": "l298.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L299",
+      "term": "ცვლადი",
+      "category": "ციფრული ტექსტის დამატებითი ცნებები",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "შაბლონში ჩასასმელი მნიშვნელობის ადგილი",
+      "example": "ცვლადი ფაილის სახელს შეიცავს.",
+      "representative_form": "",
+      "usage_note": "ეს ისტორიული ჩანაწერი ახალი ტექსტისთვის არ გამოიყენოთ. შაბლონის ჩასანაცვლებელი ველი: L311; პროგრამული ცვლადი: L312.",
+      "status": "deprecated",
+      "replacement_ids": [
+        "L311",
+        "L312"
+      ],
+      "sense_id": "l299.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L300",
+      "term": "დუბლიკატი",
+      "category": "ციფრული ტექსტის დამატებითი ცნებები",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "შეთანხმებული კრიტერიუმით განმეორებული ჩანაწერი",
+      "example": "სისტემამ ერთი დუბლიკატი იპოვა.",
+      "representative_form": "",
+      "usage_note": "მსგავსი სახელი მარტო არ ადასტურებს.",
+      "status": "active",
+      "sense_id": "l300.selected_sense",
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L301",
+      "term": "დადასტურება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ფაქტის ან მტკიცების სისწორის მტკიცებულებით გამყარება",
+      "example": "ჟურნალმა ფაილის მიღება დაადასტურა.",
+      "representative_form": "დაადასტურა",
+      "usage_note": "მიუთითეთ, რა დადასტურდა და რა მტკიცებულებით.",
+      "status": "active",
+      "sense_id": "confirmation.evidence",
+      "related_ids": [
+        "L037"
+      ],
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L302",
+      "term": "ანგარიშგება",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "საქმიანობის შესახებ ანგარიშების მომზადებისა და წარდგენის პროცესი",
+      "example": "ანგარიშგების წესი განსაზღვრავს, რა მონაცემები უნდა წარადგინოთ.",
+      "representative_form": "",
+      "usage_note": "დარგში შეიძლება დოკუმენტების ერთობლიობასაც ნიშნავდეს; ასეთი მნიშვნელობა ცალკე განსაზღვრეთ. „ფინანსური ანგარიშგება“ ავტომატურად არ ჩაანაცვლოთ.",
+      "status": "active",
+      "sense_id": "reporting.process",
+      "related_ids": [
+        "L092"
+      ],
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L303",
+      "term": "განახლება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "პროგრამის ან მისი ნაწილის ახალი ვერსიის დაყენება",
+      "example": "განაახლეთ საცდელი პროგრამა მითითებულ ვერსიამდე.",
+      "representative_form": "განაახლეთ",
+      "usage_note": "ვერსია და გარემო დადასტურებული წყაროდან აიღეთ; გვერდის ხელახალი ჩატვირთვა სხვა მოქმედებაა.",
+      "status": "active",
+      "sense_id": "update.software",
+      "related_ids": [
+        "L043"
+      ],
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L304",
+      "term": "განახლება",
+      "category": "მოქმედება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "გვერდის ან სიის მიმდინარე მონაცემების ხელახლა ჩატვირთვა",
+      "example": "მიმდინარე სტატუსის სანახავად განაახლეთ სია.",
+      "representative_form": "განაახლეთ",
+      "usage_note": "თუ ღილაკი მხოლოდ ხელახლა ტვირთავს მონაცემებს, მათი რედაქტირება არ იგულისხმოთ.",
+      "status": "active",
+      "sense_id": "refresh.data",
+      "related_ids": [
+        "L043"
+      ],
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L305",
+      "term": "წვდომა",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "კონკრეტულ მომენტში ობიექტის ტექნიკურად მიღწევის ან გამოყენების შესაძლებლობა",
+      "example": "ქსელის აღდგენის შემდეგ სერვერზე წვდომა აღდგა.",
+      "representative_form": "",
+      "usage_note": "ეს ტექსტი მომხმარებლის უფლებების გაფართოებას არ ამტკიცებს.",
+      "status": "active",
+      "sense_id": "access.availability",
+      "related_ids": [
+        "L157"
+      ],
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L306",
+      "term": "დრო",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მოქმედების ან მდგომარეობის ხანგრძლივობა",
+      "example": "ატვირთვის დრო 20 წამი იყო.",
+      "representative_form": "",
+      "usage_note": "მიუთითეთ გაზომვის დაწყებისა და დასრულების მოვლენები, თუ სხვაგვარად შედეგი ორაზროვანია.",
+      "status": "active",
+      "sense_id": "time.duration",
+      "related_ids": [
+        "L161"
+      ],
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L307",
+      "term": "სიჩქარე",
+      "category": "ობიექტი და ცნება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "ფიზიკური სხეულის გადაადგილების ტემპის სიდიდე",
+      "example": "საცდელ მონაკვეთზე სიჩქარე 2 m/s იყო.",
+      "representative_form": "",
+      "usage_note": "სცენარის რიცხვი ნორმატიული ზღვარი არ არის; მოძრაობის კონტექსტი და ერთეული შეინარჩუნეთ.",
+      "status": "active",
+      "sense_id": "speed.motion",
+      "related_ids": [
+        "L179"
+      ],
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L308",
+      "term": "სანამ",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მოვლენის დადგომამდე ან დასრულებამდე დროითი საზღვრის აღმნიშვნელი",
+      "example": "სანამ შემოწმება არ დასრულდება, ფაილი არ წაშალოთ.",
+      "representative_form": "",
+      "usage_note": "აქ პირველი უარყოფა დროით კონსტრუქციაშია. ეკვივალენტი ამ სცენარში: „შემოწმების დასრულებამდე ფაილი არ წაშალოთ“.",
+      "status": "active",
+      "sense_id": "until.boundary",
+      "related_ids": [
+        "L243"
+      ],
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L309",
+      "term": "სანამ",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "შემდგომ მოქმედებამდე დროის აღმნიშვნელი",
+      "example": "სანამ ფაილს წაშლით, მისი ასლი შეინახეთ.",
+      "representative_form": "",
+      "usage_note": "ასლის შექმნა წაშლას წინ უსწრებს; მოქმედებათა რიგი არ შეცვალოთ.",
+      "status": "active",
+      "sense_id": "before.event",
+      "related_ids": [
+        "L243"
+      ],
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L310",
+      "term": "კვლავ",
+      "category": "ლოგიკა დრო და მიმართულება",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "მოვლენის განმეორების აღმნიშვნელი",
+      "example": "აღდგენის შემდეგ კავშირი კვლავ გაწყდა.",
+      "representative_form": "",
+      "usage_note": "აქ ახალი გაწყვეტაა; უწყვეტი მიუწვდომლობა სხვა შემთხვევაა.",
+      "status": "active",
+      "sense_id": "again.repetition",
+      "related_ids": [
+        "L252"
+      ],
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L311",
+      "term": "შაბლონის ჩასანაცვლებელი ველი",
+      "category": "ციფრული ტექსტის დამატებითი ცნებები",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "შაბლონის მონიშნული ადგილი, რომელშიც კონკრეტული მნიშვნელობა ჩაიწერება",
+      "example": "{file_name} ფაილის სახელით ჩანაცვლდება.",
+      "representative_form": "",
+      "usage_note": "ველის ნიშანი, ჩასმული მნიშვნელობა და პროგრამული ცვლადი გაარჩიეთ. ნიშნის სახელი თარგმნისას ზუსტად შეინარჩუნეთ.",
+      "status": "active",
+      "sense_id": "template.placeholder",
+      "related_ids": [
+        "L299"
+      ],
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    },
+    {
+      "id": "L312",
+      "term": "ცვლადი",
+      "category": "ციფრული ტექსტის დამატებითი ცნებები",
+      "profiles": [
+        "T",
+        "A",
+        "U"
+      ],
+      "meaning": "პროგრამაში სახელით აღნიშნული მნიშვნელობა ან მის შესანახად გამოყოფილი ადგილი, გამოყენებული ენის წესების შესაბამისად",
+      "example": "ამ მაგალითში fileName ცვლადი ფაილის სახელს ინახავს.",
+      "representative_form": "",
+      "usage_note": "აქ პროგრამული ცნებაა. მისი ზუსტი ქცევა ენასა და დეკლარაციაზეა დამოკიდებული; შაბლონის ველის სინონიმად ავტომატურად არ გამოიყენოთ.",
+      "status": "active",
+      "sense_id": "programming.variable",
+      "related_ids": [
+        "L299"
+      ],
+      "lookup_policy": "Use complete sentence context. A listed form is not a morphological paradigm or mandatory replacement."
+    }
+  ]
+}

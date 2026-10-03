@@ -1,0 +1,327 @@
+{
+  "version": "1.0-rc.5",
+  "schema_version": 1,
+  "description": "Practical writing decisions and source-fidelity checks.",
+  "rules": [
+    {
+      "id": "C01",
+      "profile": "core",
+      "title": "Honor the output contract",
+      "instruction": "Preserve the requested target language, format, length, scope and voice. Decide which text is being edited before rewriting it.",
+      "boundary": "An English prompt or quotation does not override a request for another language. A concise reply is not a mandatory short reply.",
+      "example_before": "Translate \"The report is ready\" into French. Return only the translation.",
+      "example_after": "Le rapport est prêt.",
+      "semantic_check": "The target language is French and no framing text is added."
+    },
+    {
+      "id": "C02",
+      "profile": "core",
+      "title": "Preserve participants and ownership",
+      "instruction": "Keep the actor, recipient, object, owner and affected group unchanged.",
+      "boundary": "When a pronoun has materially different plausible referents, ask a focused question or preserve the ambiguity with a note.",
+      "example_before": "Maya sent Noor her draft.",
+      "example_after": "Whose draft did Maya send: Maya's or Noor's?",
+      "semantic_check": "An unsupported ownership choice would change the source."
+    },
+    {
+      "id": "C03",
+      "profile": "core",
+      "title": "Preserve modal force",
+      "instruction": "Distinguish obligation, prohibition, advice, permission, capability, prediction and inference.",
+      "boundary": "Must can express an inference. Should can express an expectation. Do not assign numeric confidence to either.",
+      "example_before": "You do not have to restart the app.",
+      "example_after": "You are not required to restart the app.",
+      "semantic_check": "Absence of a requirement is preserved; no prohibition or affirmative permission is added."
+    },
+    {
+      "id": "C04",
+      "profile": "core",
+      "title": "Preserve negation and its scope",
+      "instruction": "Read the full clause before moving or removing not, no, never, neither, all or any.",
+      "boundary": "Not all does not imply none, and does not guarantee that some succeeded. Retain meaningful understatement or dialect in creative text.",
+      "example_before": "Not all three uploads finished.",
+      "example_after": "At least one of the three uploads did not finish.",
+      "semantic_check": "The rewrite permits zero, one or two completed uploads; it does not require a success."
+    },
+    {
+      "id": "C05",
+      "profile": "core",
+      "title": "Preserve conditions and exceptions",
+      "instruction": "Keep necessary conditions, sufficient conditions, exceptions and prerequisites distinct.",
+      "boundary": "Only if is not if. Unless does not by itself promise the converse. If may also report a question or introduce a polite request.",
+      "example_before": "Publish only if the review passes.",
+      "example_after": "Do not publish if the review does not pass.",
+      "semantic_check": "Passing remains necessary; publication is not promised whenever a review passes."
+    },
+    {
+      "id": "C06",
+      "profile": "core",
+      "title": "Preserve time and completion",
+      "instruction": "Keep tense, aspect, sequence, duration, deadlines and completion status.",
+      "boundary": "Do not convert an attempt, ongoing task or future plan into success. Until does not guarantee eventual completion.",
+      "example_before": "The export will be available after the overnight job finishes.",
+      "example_after": "The export will be available after the overnight job finishes.",
+      "semantic_check": "Future availability and its condition remain intact; a correct sentence needs no forced edit."
+    },
+    {
+      "id": "C07",
+      "profile": "core",
+      "title": "Preserve quantities and boundaries",
+      "instruction": "Keep numbers, units, denominators, ranges, tolerances and inclusive or exclusive endpoints.",
+      "boundary": "Do not silently round exact values, convert currencies, expand ambiguous dates or replace percentage points with percent.",
+      "example_before": "You can attach no more than 10 files.",
+      "example_after": "You can attach up to 10 files.",
+      "semantic_check": "Ten is included. Fewer than 10 would exclude a permitted boundary."
+    },
+    {
+      "id": "C08",
+      "profile": "core",
+      "title": "Preserve evidence and attribution",
+      "instruction": "Keep reports, observations, inferences, proposals and unknowns distinguishable.",
+      "boundary": "Reported is not independently verified; not tested is not failed. Do not replace an evidential hedge with filler-free certainty.",
+      "example_before": "The vendor says the fix is live; we have not tested it.",
+      "example_after": "According to the vendor, the fix is live. We have not tested it.",
+      "semantic_check": "The source and the missing test stay visible."
+    },
+    {
+      "id": "C09",
+      "profile": "core",
+      "title": "Preserve exact strings and structural tokens",
+      "instruction": "Keep quotations, identifiers, commands, paths, URLs, names, placeholders and required markup exact unless changing them is requested.",
+      "boundary": "Translate surrounding prose, not a code token. Editing a quotation requires permission to paraphrase rather than quote.",
+      "example_before": "Rewrite the message, preserving {file_name}: Failed to save {file_name}.",
+      "example_after": "Could not save {file_name}.",
+      "semantic_check": "The placeholder retains its spelling and braces."
+    },
+    {
+      "id": "C10",
+      "profile": "core",
+      "title": "Use familiar words without flattening distinctions",
+      "instruction": "Replace unnecessary complexity when a familiar expression preserves the meaning and register; define needed technical terms.",
+      "boundary": "Do not replace a precise term with a broader word. A glossary is not an approved-word list or an automatic synonym engine.",
+      "example_before": "We made a decision to postpone the review.",
+      "example_after": "We decided to postpone the review.",
+      "semantic_check": "The decision and postponement remain; a redundant noun construction is shortened."
+    },
+    {
+      "id": "C11",
+      "profile": "core",
+      "title": "Make relationships easy to follow",
+      "instruction": "Organize information around the reader's task; connect sentences so cause, contrast, condition and sequence remain clear.",
+      "boundary": "Do not add therefore or then when causality or order is unknown. Headings are optional for small replies.",
+      "example_before": "The queue grew. The worker restarted.",
+      "example_after": "The queue grew. The worker restarted.",
+      "semantic_check": "The source does not establish that one event caused the other."
+    },
+    {
+      "id": "C12",
+      "profile": "core",
+      "title": "Match length to the task",
+      "instruction": "Remove needless repetition; keep the information needed to understand or act. Use the length the user requests.",
+      "boundary": "No universal sentence-word limit, paragraph quota or reading-grade target applies to all English.",
+      "example_before": "Thanks for checking!",
+      "example_after": "You're welcome!",
+      "semantic_check": "A social acknowledgement needs no procedure, evidence ledger or heading."
+    },
+    {
+      "id": "G01",
+      "profile": "grammar",
+      "title": "Treat voice as a choice",
+      "instruction": "Prefer an explicit actor when responsibility matters; retain passive voice when the actor is unknown or the object is the topic.",
+      "boundary": "A form of be is not automatically passive. Never invent an actor to make a sentence active.",
+      "example_before": "The file was deleted at 09:00; the actor is unknown.",
+      "example_after": "The file was deleted at 09:00; the actor is unknown.",
+      "semantic_check": "Changing this to You deleted the file would invent responsibility."
+    },
+    {
+      "id": "G02",
+      "profile": "grammar",
+      "title": "Keep articles and reference precise",
+      "instruction": "Use determiners and articles that fit the intended referent and countability; keep necessary helper words.",
+      "boundary": "The is not merely a label for second mention; context and generic uses matter. UI fragments are not ordinary sentence prose.",
+      "example_before": "Context: a specific previously named draft. Open draft.",
+      "example_after": "Open the draft.",
+      "semantic_check": "The added article points to the known draft, not any draft."
+    },
+    {
+      "id": "G03",
+      "profile": "grammar",
+      "title": "Check agreement after editing",
+      "instruction": "Make verbs agree with their grammatical subjects and keep list structure parallel.",
+      "boundary": "Intervening nouns can mislead. Preserve established dialect and house treatment of collective nouns instead of universalizing a US rule.",
+      "example_before": "Each of the files are ready.",
+      "example_after": "Each of the files is ready.",
+      "semantic_check": "Each is the singular subject; the set of files is unchanged."
+    },
+    {
+      "id": "G04",
+      "profile": "grammar",
+      "title": "Protect restrictive meaning and punctuation",
+      "instruction": "Decide whether a relative clause identifies a subset or adds information before adding commas or changing its form.",
+      "boundary": "Restrictive which is possible in English; a house preference for that is a style choice.",
+      "example_before": "The accounts that are inactive will be archived.",
+      "example_after": "The accounts that are inactive will be archived.",
+      "semantic_check": "Adding commas around a non-defining clause could change which accounts are included."
+    },
+    {
+      "id": "G05",
+      "profile": "grammar",
+      "title": "Resolve modifiers and noun stacks",
+      "instruction": "Place only and other limiting words near their intended scope; unpack a noun stack only when the relationship is known.",
+      "boundary": "A fluent rewrite can silently change what is restricted or what modifies what.",
+      "example_before": "Only Nina can approve refunds.",
+      "example_after": "Nina is the only person who can approve refunds.",
+      "semantic_check": "The person is restricted; Nina's other powers are not."
+    },
+    {
+      "id": "G06",
+      "profile": "grammar",
+      "title": "Preserve idiom, variety and intentional voice",
+      "instruction": "Use natural English for the chosen audience. Keep requested British or US spelling, contractions, pronouns and deliberate creative effects.",
+      "boundary": "Technical house-style restrictions do not make conversational phrasal verbs, singular they or creative fragments errors.",
+      "example_before": "Keep the warm tone: I am glad you could come.",
+      "example_after": "I'm glad you could come.",
+      "semantic_check": "The contraction changes register without adding facts."
+    },
+    {
+      "id": "P01",
+      "profile": "profile",
+      "title": "Write conversation as conversation",
+      "instruction": "Respond directly and naturally. Explain only what the exchange calls for.",
+      "boundary": "Do not announce the writing framework or append routine editorial disclaimers.",
+      "example_before": "Can we move this to tomorrow? Reply briefly and agree.",
+      "example_after": "Sure, tomorrow works.",
+      "semantic_check": "The response satisfies the social act without inventing a time."
+    },
+    {
+      "id": "P02",
+      "profile": "profile",
+      "title": "Explain technical concepts accurately",
+      "instruction": "State the central mechanism, define unfamiliar terms and use an example when it improves understanding.",
+      "boundary": "Identify illustrative assumptions; do not present an analogy as the implementation or invent product capabilities.",
+      "example_before": "Explain a queue in one sentence to a beginner.",
+      "example_after": "A queue holds items until a worker is ready to process them.",
+      "semantic_check": "This simple explanation does not promise ordering, exactly-once delivery or a particular product."
+    },
+    {
+      "id": "P03",
+      "profile": "profile",
+      "title": "Make procedures executable from known facts",
+      "instruction": "Identify necessary prerequisites, actor and location; order steps; separate the action from its observed or expected result.",
+      "boundary": "Keep optional steps optional and concurrent actions concurrent. Do not make up a menu, command, recovery route or acceptance result.",
+      "example_before": "Known: open Settings, choose Export; if Ready appears, select Download.",
+      "example_after": "1. Open Settings.\n2. Choose Export.\n3. If Ready appears, select Download.",
+      "semantic_check": "The conditional last step remains conditional and no time-to-ready guarantee is added."
+    },
+    {
+      "id": "P04",
+      "profile": "profile",
+      "title": "Keep warnings tied to evidence and domain",
+      "instruction": "Place a necessary warning before the affected action and state the known consequence clearly.",
+      "boundary": "Use the domain's actual safety terminology. Copyediting cannot validate a safety-critical procedure.",
+      "example_before": "Known: this command permanently deletes the selected backup.",
+      "example_after": "This command permanently deletes the selected backup.",
+      "semantic_check": "The scope and irreversibility are explicit without inventing harm or recovery."
+    },
+    {
+      "id": "P05",
+      "profile": "profile",
+      "title": "Translate meaning within the requested contract",
+      "instruction": "Preserve semantics and register in the target language, using that language's grammar and natural expressions.",
+      "boundary": "Localizing dates, units or currencies is a separate choice; English source text does not require English output.",
+      "example_before": "Translate to English: ანგარიში ჯერ არ არის მზად.",
+      "example_after": "The report is not ready yet.",
+      "semantic_check": "The negative state and yet are retained; no deadline is invented."
+    },
+    {
+      "id": "P06",
+      "profile": "profile",
+      "title": "Use specialized style only for the requested task",
+      "instruction": "Apply the user's supplied house style or specialized writing constraints when they match the requested document.",
+      "boundary": "Do not import a technical vocabulary into a poem or infer a compliance requirement from ordinary editing.",
+      "example_before": "Make this poem conform to your English clarity rules.",
+      "example_after": "Edit for the requested poetic effect; do not apply a technical controlled vocabulary.",
+      "semantic_check": "Technical constraints are kept out of creative writing."
+    },
+    {
+      "id": "U01",
+      "profile": "ui",
+      "title": "Name the real action and state",
+      "instruction": "Use labels and status text that match the actual operation, scope and lifecycle state.",
+      "boundary": "Queued, sending, sent, delivered, saved locally and synchronized are different states. Unknown is not zero.",
+      "example_before": "Known: a message is queued but has not been sent. Current status: Sent.",
+      "example_after": "Queued",
+      "semantic_check": "The label is limited to the confirmed state."
+    },
+    {
+      "id": "U02",
+      "profile": "ui",
+      "title": "Give known, useful error guidance",
+      "instruction": "Identify the affected input or operation and a supported way to correct it, when one is known.",
+      "boundary": "Distinguish a validation error from a service failure. Do not invent a retry button or promise a fix; preserve security-sensitive limits.",
+      "example_before": "Known: the upload limit is 10 MB and this file exceeds it. Current copy: Invalid input.",
+      "example_after": "Choose a file that is 10 MB or smaller.",
+      "semantic_check": "The correction preserves the inclusive limit and identifies the input."
+    },
+    {
+      "id": "U03",
+      "profile": "ui",
+      "title": "Make labels usable and review implementation separately",
+      "instruction": "Provide enough label or instruction context; keep visible wording represented in the accessible name where applicable.",
+      "boundary": "Text quality does not establish markup, focus behavior, announcements or full accessibility compliance.",
+      "example_before": "Visible button: Download report. Proposed accessible name: Get file.",
+      "example_after": "Download report",
+      "semantic_check": "The proposed name contains the visible label; runtime accessibility still needs testing."
+    },
+    {
+      "id": "U04",
+      "profile": "ui",
+      "title": "Treat localization strings as structured messages",
+      "instruction": "Preserve keys, placeholders and plural syntax; write whole messages and test representative values.",
+      "boundary": "Do not impose English plural rules on another language. A placeholder audit alone cannot validate a full message-format parser.",
+      "example_before": "Rewrite JSON values only: {\"saved\":\"Successfully saved {count} files.\"}",
+      "example_after": "{\"saved\":\"Saved {count} files.\"}",
+      "semantic_check": "The key and placeholder remain; singular and zero variants require separate product decisions."
+    },
+    {
+      "id": "E01",
+      "profile": "evaluation",
+      "title": "Audit all content by meaning",
+      "instruction": "Compare source and rewrite for every relevant invariant and inspect each rule, term and example.",
+      "boundary": "A target number of edits or passing cases is not a quality objective. Correct source text may be retained.",
+      "example_before": "The draft is already clear and accurate.",
+      "example_after": "Retain the draft.",
+      "semantic_check": "An edit is not required merely to demonstrate activity."
+    },
+    {
+      "id": "E02",
+      "profile": "evaluation",
+      "title": "Use metrics as limited signals",
+      "instruction": "Use counts and readability formulas only for a specified purpose; inspect meaning, structure and audience fit.",
+      "boundary": "A short sentence can be wrong; a grade score is not comprehension evidence. Do not infer a universal word cap from a style convention.",
+      "example_before": "A checker says this text has a low reading grade. Is comprehension proved?",
+      "example_after": "No. The score is a limited signal; comprehension still needs an appropriate reader test.",
+      "semantic_check": "A proxy measure is not reported as a user outcome."
+    },
+    {
+      "id": "E03",
+      "profile": "evaluation",
+      "title": "Separate wording, structure and implementation checks",
+      "instruction": "When a review is requested, distinguish source fidelity, format checks and observed implementation behavior.",
+      "boundary": "Valid JSON does not prove accurate wording or a working interface. Writing review does not test focus or status announcements.",
+      "example_before": "The JSON parses, so its messages are accurate and the interface works.",
+      "example_after": "The JSON parses. Its wording and interface behavior still need their respective checks.",
+      "semantic_check": "The conclusion stays within the properties that were actually checked."
+    },
+    {
+      "id": "E04",
+      "profile": "evaluation",
+      "title": "Test understanding with the intended readers",
+      "instruction": "When reader testing is requested and authorized, use paraphrase, information-finding or relevant tasks; revise against observed errors.",
+      "boundary": "Ordinary editing needs source comparison, not a compulsory reader study. This writing skill does not authorize contacting participants.",
+      "example_before": "We like the shorter version, so readers understand it better.",
+      "example_after": "We prefer the shorter version. Reader understanding has not been tested.",
+      "semantic_check": "A preference is not presented as comparative comprehension evidence."
+    }
+  ]
+}
